@@ -223,6 +223,14 @@
     return destino < lista.length ? lista[destino] : { palabra: -1, hueco: 0 };
   }
 
+  // Si lo recién tecleado acaba de llenar una palabra, el texto con un espacio
+  // detrás: así el teclado predictivo (Android) ve palabras sueltas y no sugiere
+  // «Nohaydonsindin». Solo al escribir, no al borrar, para poder quitar el espacio.
+  function conEspacio(antes, texto, escrito) {
+    if (texto.length <= antes.length || escrito.actual === -1 || escrito.hueco !== 0) return texto;
+    return /[\p{L}\p{N}]$/u.test(texto) ? texto + ' ' : texto;
+  }
+
   // El refrán tal como ha quedado en el esqueleto: lo escrito más lo destapado.
   function textoDelEsqueleto(palabras, letras, destapadas) {
     return palabras.map(function (p, i) {
@@ -450,6 +458,7 @@
     registrarFallo: registrarFallo,
     esqueleto: esqueleto,
     repartirLetras: repartirLetras,
+    conEspacio: conEspacio,
     casillaVecina: casillaVecina,
     textoDelEsqueleto: textoDelEsqueleto,
     ordenPistas: ordenPistas,
@@ -713,6 +722,7 @@
     // invisible guarda solo lo tecleado desde entonces, que se reparte a partir de ahí.
     var base = null;
     var ancla = null;
+    var tecleado = '';   // el valor del campo tras el último «input»
 
     // Las partidas guardadas antes de existir r.destapadas siguen el orden de pistas.
     function destapadas() { return r.destapadas || orden.slice(0, r.pistas); }
@@ -728,6 +738,7 @@
       base = escrito ? escrito.celdas : null;
       ancla = casilla || (escrito ? { palabra: escrito.actual, hueco: escrito.hueco } : null);
       campo.value = '';
+      tecleado = '';
       pintarEsqueleto();
     }
 
@@ -750,6 +761,9 @@
     }
     campo.addEventListener('input', function (ev) {
       pintarEsqueleto();
+      var espaciado = conEspacio(tecleado, campo.value, escrito);
+      if (espaciado !== campo.value) campo.value = espaciado;
+      tecleado = campo.value;
       // Lo que ya no cabe en los huecos se descarta, para que borrar actúe enseguida.
       if (!ev.isComposing && escrito.actual === -1 && campo.value !== escrito.consumido) campo.value = escrito.consumido;
       mensaje.textContent = '';

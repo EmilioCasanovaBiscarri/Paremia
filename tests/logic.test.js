@@ -95,6 +95,22 @@ test('repartirLetras llena los huecos por orden y salta solo de palabra', () => 
   assert.deepEqual(L.repartirLetras('pa\u0301jaro', L.esqueleto('pájaro'), []).letras, ['pájaro']);
 });
 
+test('conEspacio separa las palabras para el teclado predictivo', () => {
+  const e = L.esqueleto('No hay don sin din');
+  const r = (t) => L.repartirLetras(t, e, []);
+  // Al llenar una palabra se añade el espacio; a medias, no.
+  assert.equal(L.conEspacio('N', 'No', r('No')), 'No ');
+  assert.equal(L.conEspacio('No h', 'No ha', r('No ha')), 'No ha');
+  // Si el espacio ya lo ha puesto quien juega, no se duplica.
+  assert.equal(L.conEspacio('No', 'No ', r('No ')), 'No ');
+  // Al borrar el espacio no se vuelve a poner.
+  assert.equal(L.conEspacio('No ', 'No', r('No')), 'No');
+  // Tras la última palabra no hace falta.
+  assert.equal(L.conEspacio('No hay don sin di', 'No hay don sin din', r('No hay don sin din')), 'No hay don sin din');
+  // El espacio no cambia cómo se reparten las letras.
+  assert.deepEqual(r('No hay ').letras, r('Nohay').letras);
+});
+
 test('repartirLetras se salta las palabras destapadas', () => {
   const e = L.esqueleto('Perro ladrador, poco mordedor');
   const a = L.repartirLetras('perro poco', e, [1]);
