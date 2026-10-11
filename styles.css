@@ -146,6 +146,10 @@ body::before {
   box-shadow: var(--sombra);
 }
 
+/* Estadísticas: icono de barras sin borde, como en los demás juegos del Almanaque. */
+.icono-btn--liso { display: grid; place-items: center; border-color: transparent; background: transparent; box-shadow: none; }
+.icono-btn svg { width: 1.4rem; height: 1.4rem; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+
 .icono-btn:focus-visible,
 .btn:focus-visible,
 summary:focus-visible { outline: 2px solid var(--verde); outline-offset: 2px; }

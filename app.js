@@ -1008,10 +1008,19 @@
   function abrirAyuda() {
     modalCuerpo.innerHTML = '<h2 id="modal-titulo">Cómo se juega</h2>' + htmlComoSeJuega() +
       '<p class="reglas__nota">Al compartir: 🟩 a la primera, 🟨 con pistas o fallos, ⬛ rendido. Cada medianoche hay tres refranes nuevos.</p>';
+    document.getElementById('modal-cerrar').textContent = 'Entendido';
+    if (modal.showModal) modal.showModal(); else modal.setAttribute('open', '');
+  }
+
+  // Estadísticas: la misma ventana, con las cifras de la pantalla final.
+  function abrirEstadisticas() {
+    modalCuerpo.innerHTML = '<h2 id="modal-titulo">Estadísticas</h2>' + htmlEstadisticas();
+    document.getElementById('modal-cerrar').textContent = 'Cerrar';
     if (modal.showModal) modal.showModal(); else modal.setAttribute('open', '');
   }
 
   document.getElementById('btn-ayuda').addEventListener('click', abrirAyuda);
+  document.getElementById('btn-estadisticas').addEventListener('click', abrirEstadisticas);
   document.getElementById('modal-cerrar').addEventListener('click', function () {
     if (modal.close) modal.close(); else modal.removeAttribute('open');
   });
