@@ -536,7 +536,6 @@
     else document.addEventListener('DOMContentLoaded', avisar, { once: true });
   }
 
-  function subtitulo(texto) { document.getElementById('subtitulo').textContent = texto; }
 
   function aviso(msg) {
     avisoEl.textContent = msg;
@@ -643,7 +642,6 @@
   // Solo la primera vez: cómo se juega y botón «Jugar». Después se entra directo
   // al refrán en curso (o al resultado); las reglas quedan en el botón «?».
   function pantallaInicio() {
-    subtitulo('Refranero para tiempos burocráticos');
     pintar(
       '<section class="pantalla pantalla--inicio">' +
       '<p class="kicker">Día ' + hoy + ' · ' + esc(fechaLarga(forzado ? fechaDelDia(hoy) : new Date())) + '</p>' +
@@ -684,7 +682,6 @@
     var r = partida.refranes[i];
     var orden = ordenPistas(refran);
     var total = partida.refranes.length;
-    subtitulo('Día ' + hoy + ' · Refrán ' + NUMERALES[i] + ' de ' + NUMERALES[total - 1]);
 
     pintar(
       '<section class="pantalla pantalla--refran">' +
@@ -908,7 +905,6 @@
     var quedan = refranActual(partida) !== -1;
     if (!quedan && terminarPartida(estado, hoy)) guardar();
     if (!quedan) avisarAlmanaque();
-    subtitulo('Día ' + hoy + ' · Refrán ' + NUMERALES[i] + ' de ' + NUMERALES[partida.refranes.length - 1]);
 
     pintar(
       '<section class="pantalla pantalla--recompensa">' +
@@ -943,7 +939,6 @@
     avisarAlmanaque();
     var puntos = puntosPartida(partida);
     var maximo = partida.refranes.length * 3;
-    subtitulo('Día ' + hoy + ' · Resultado');
 
     pintar(
       '<section class="pantalla pantalla--resultado">' +
@@ -983,7 +978,6 @@
   }
 
   function pantallaAntes() {
-    subtitulo('Refranero para tiempos burocráticos');
     pintar(
       '<section class="pantalla pantalla--centro">' +
       '<p class="kicker">Próximamente</p>' +
