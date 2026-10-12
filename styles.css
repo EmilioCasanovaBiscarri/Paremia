@@ -920,3 +920,12 @@ summary:focus-visible { outline: 2px solid var(--verde); outline-offset: 2px; }
   .hueco { width: 0.55em; font-size: 0.95rem; }
   .casilla { padding: 4px 4px 5px; }
 }
+
+/* Las cifras de IM Fell son de estilo antiguo (el 1 parece una I): los números de la ficha
+   final y de las estadísticas van en EB Garamond, con cifras modernas. */
+.marcador__cifra b,
+.cifras dd {
+  font-family: var(--letra);
+  font-weight: 500;
+  font-variant-numeric: lining-nums;
+}
