@@ -355,6 +355,9 @@
     }, 0);
   }
 
+  // Folio con la esquina doblada: marca de la ficha final.
+  var FOLIO = 'M6 2.5h8l5 5v14H6Z';
+
   function emojiRefran(r) {
     if (r.estado === 'rendido') return '⬛';
     return tropiezos(r) === 0 ? '🟩' : '🟨';
@@ -625,12 +628,12 @@
       '</article>';
   }
 
-  function htmlEstadisticas() {
+  function htmlEstadisticas(clase) {
     var jugados = Object.keys(estado.historial);
     var total = jugados.reduce(function (s, d) { return s + estado.historial[d]; }, 0);
     var media = jugados.length ? (total / jugados.length).toFixed(1).replace('.', ',') : '–';
-    return '<dl class="cifras">' +
-      '<div><dt>Jugados</dt><dd>' + jugados.length + '</dd></div>' +
+    return '<dl class="cifras ' + (clase || '') + '">' +
+      '<div><dt>Días</dt><dd>' + jugados.length + '</dd></div>' +
       '<div><dt>Media</dt><dd>' + media + '</dd></div>' +
       '<div><dt>Racha</dt><dd>' + rachaVigente(estado, hoy) + '</dd></div>' +
       '<div><dt>Mejor racha</dt><dd>' + estado.racha.maxima + '</dd></div>' +
@@ -945,21 +948,25 @@
     var puntos = puntosPartida(partida);
     var maximo = partida.refranes.length * 3;
 
+    // Un folio por refrán: verde si salió a la primera, ocre con pistas o fallos y hueco si
+    // hubo que rendirse.
+    var folios = partida.refranes.map(function (r) {
+      var clase = r.estado === 'rendido' ? 'rendido' : tropiezos(r) ? 'pistas' : 'limpio';
+      return '<svg class="folio folio--' + clase + '" viewBox="0 0 24 24" aria-hidden="true"><path d="' + FOLIO + '"/><path class="folio__doblez" d="M14 2.5v5h5"/></svg>';
+    }).join('');
+
+    // Pantalla final, igual en todos los juegos del Almanaque: ficha con el resultado, una
+    // línea por refrán, estadísticas y botones, que se ven sin desplazarse.
     pintar(
-      '<section class="pantalla pantalla--resultado">' +
-      '<p class="kicker">Paremia · Día ' + hoy + '</p>' +
+      '<section class="pantalla pantalla--resultado" aria-label="Resultado de hoy">' +
       '<div class="marcador">' +
-      '<p class="marcador__cifra"><b>' + puntos + '</b><span>/' + maximo + '</span></p>' +
-      '<p class="marcador__emojis" aria-hidden="true">' + partida.refranes.map(function (r) {
-        return emojiRefran(r);
-      }).join('') + '</p>' +
+      '<p class="marcador__folios" role="img" aria-label="' + partida.refranes.map(function (r) {
+        return r.estado === 'rendido' ? 'rendido' : tropiezos(r) ? 'con pistas' : 'a la primera';
+      }).join(', ') + '">' + folios + '</p>' +
+      '<h2 class="marcador__cifra"><b>' + puntos + '</b><span> de ' + maximo + ' puntos</span></h2>' +
       '<p class="marcador__frase">' + FRASES[Math.round(puntos * 9 / maximo)] + '</p>' +
       '</div>' +
-      '<div class="pila">' +
-      '<button class="btn btn--grande" id="btn-compartir" type="button">Compartir</button>' +
-      '<a class="btn btn--sec btn--enlace" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
-      '</div>' +
-      '<ol class="repaso">' + diaDeContenido(dias, hoy).refranes.map(function (refran, k) {
+      '<ol class="repaso" aria-label="Toca un refrán para repasarlo">' + diaDeContenido(dias, hoy).refranes.map(function (refran, k) {
         var r = partida.refranes[k];
         return '<li><details>' +
           '<summary><span class="repaso__marca repaso__marca--' + (r.estado === 'rendido' ? 'rendido' : tropiezos(r) ? 'pistas' : 'limpio') + '" aria-hidden="true"></span>' +
@@ -970,7 +977,11 @@
           (refran.equivalente ? '<p class="repaso__eq">En ' + esc(refran.equivalente.idioma) + ': <i>' + esc(refran.equivalente.texto) + '</i></p>' : '') +
           '</div></details></li>';
       }).join('') + '</ol>' +
-      htmlEstadisticas() +
+      htmlEstadisticas('cifras--final') +
+      '<div class="pila">' +
+      '<button class="btn btn--grande" id="btn-compartir" type="button">Compartir</button>' +
+      '<a class="btn btn--sec btn--enlace" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
+      '</div>' +
       '<p class="cuenta-atras">Próximos refranes en' +
       ' <time id="cuenta-atras">--:--:--</time></p>' +
       '</section>'

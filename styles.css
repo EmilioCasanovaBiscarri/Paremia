@@ -638,45 +638,58 @@ summary:focus-visible { outline: 2px solid var(--verde); outline-offset: 2px; }
 .recompensa--rendido .sello { border-color: var(--almagre); color: var(--almagre); }
 .recompensa--rendido .recompensa__puntos b { color: var(--tinta-tenue); }
 
-/* ---------- Resultado ---------- */
+/* ---------- Resultado ----------
+   Igual en todos los juegos del Almanaque: ficha con el resultado, una línea por refrán,
+   estadísticas y botones. Todo cabe en el móvil sin desplazarse hasta los botones. */
 
 .marcador {
-  padding: 18px 16px;
+  padding: 10px 16px 12px;
   background: var(--tarjeta);
   border: 1px solid var(--filete);
-  border-radius: var(--radio);
-  box-shadow: var(--sombra);
+  outline: 1px solid var(--filete);
+  outline-offset: -5px;
+  border-radius: 2px;
 }
 
+.marcador__folios {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 2px 0 0;
+}
+
+.folio { width: 24px; height: 26px; }
+.folio path { stroke-width: 1.3; stroke-linejoin: round; }
+.folio__doblez { fill: none; }
+.folio--limpio path { fill: var(--verde); stroke: var(--verde); }
+.folio--pistas path { fill: var(--ocre); stroke: var(--ocre); }
+.folio--limpio .folio__doblez,
+.folio--pistas .folio__doblez { fill: none; stroke: var(--tarjeta); }
+.folio--rendido path { fill: none; stroke: var(--tinta-tenue); }
+
 .marcador__cifra {
-  margin: 0;
+  margin: 2px 0 0;
   font-family: var(--letra-titulo);
-  line-height: 1;
+  font-weight: 400;
+  line-height: 1.05;
   color: var(--verde);
 }
 
-.marcador__cifra b { font-weight: 400; font-size: 4rem; }
-.marcador__cifra span { font-size: 1.8rem; color: var(--tinta-tenue); }
-
-.marcador__emojis {
-  margin: 8px 0 4px;
-  font-size: 1.8rem;
-  letter-spacing: 0.15em;
-}
+.marcador__cifra b { font-weight: 400; font-size: 2.4rem; }
+.marcador__cifra span { font-size: 1.3rem; color: var(--tinta-tenue); }
 
 .marcador__frase {
-  margin: 0;
+  margin: 2px 0 0;
   font-family: var(--letra-fell);
   font-style: italic;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .repaso {
   list-style: none;
-  margin: 0 0 20px;
+  margin: 8px 0 0;
   padding: 0;
   text-align: left;
-  border-top: 1px solid var(--filete);
 }
 
 .repaso li { border-bottom: 1px solid var(--filete); }
@@ -685,25 +698,35 @@ summary:focus-visible { outline: 2px solid var(--verde); outline-offset: 2px; }
   display: flex;
   align-items: center;
   gap: 10px;
-  min-height: 48px;
-  padding: 8px 2px;
+  min-height: 42px;
+  padding: 6px 2px;
   cursor: pointer;
   list-style: none;
 }
 
 .repaso summary::-webkit-details-marker { display: none; }
 
+.repaso summary::after {
+  content: "›";
+  color: var(--tinta-tenue);
+  font-size: 1.2rem;
+  line-height: 1;
+  transition: transform 0.2s;
+}
+
+.repaso details[open] summary::after { transform: rotate(90deg); }
+
 .repaso__marca {
   flex: none;
-  width: 14px;
-  height: 14px;
+  width: 12px;
+  height: 12px;
   border-radius: 3px;
 }
 .repaso__marca--limpio { background: var(--verde); }
 .repaso__marca--pistas { background: var(--ocre); }
 .repaso__marca--rendido { background: var(--tinta-tenue); }
 
-.repaso__refran { flex: 1; font-weight: 500; }
+.repaso__refran { flex: 1; font-size: 1.05rem; font-weight: 500; line-height: 1.12; }
 
 .repaso__puntos {
   font-family: var(--letra-titulo);
@@ -742,18 +765,45 @@ summary:focus-visible { outline: 2px solid var(--verde); outline-offset: 2px; }
   line-height: 1.2;
 }
 
+/* En la pantalla final: cifra encima y nombre debajo, en una franja entre filetes dobles. */
+.cifras--final {
+  margin: 12px 0 0;
+  padding: 6px 0;
+  border-top: 3px double var(--filete);
+  border-bottom: 3px double var(--filete);
+}
+.cifras--final div { display: flex; flex-direction: column-reverse; }
+.cifras--final dt { font-size: 0.85rem; white-space: nowrap; }
+.cifras--final dd { font-size: 1.35rem; }
+
+.pantalla--resultado .pila { gap: 8px; margin: 12px 0 0; }
+.pantalla--resultado .btn { min-height: 48px; padding: 8px 18px; }
+
 .cuenta-atras {
+  margin: 14px 0 0;
   font-style: italic;
   color: var(--tinta-suave);
 }
 
 .cuenta-atras time {
-  display: block;
   font-style: normal;
-  font-family: var(--letra-titulo);
-  font-size: 1.5rem;
+  font-weight: 600;
   color: var(--tinta);
   font-variant-numeric: tabular-nums;
+}
+
+/* En pantallas bajas (iPhone SE, Android pequeños) las estadísticas bajan bajo los botones,
+   para que Compartir, Siguiente juego y Regresar se vean sin desplazarse. */
+@media (max-height: 660px) {
+  .pantalla--resultado { display: flex; flex-direction: column; }
+  .pantalla--resultado > .cifras--final,
+  .pantalla--resultado > .cuenta-atras { order: 1; }
+  .marcador { padding: 6px 16px 8px; }
+  .folio { height: 22px; }
+  .marcador__cifra b { font-size: 2.1rem; }
+  .repaso summary { min-height: 38px; padding: 4px 2px; }
+  .repaso__refran { font-size: 1rem; line-height: 1.15; }
+  .pantalla--resultado .pila { gap: 6px; }
 }
 
 /* ---------- Modal ---------- */
