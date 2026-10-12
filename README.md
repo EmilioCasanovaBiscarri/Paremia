@@ -132,3 +132,7 @@ que quien tenga la app instalada reciba la versión nueva. Si cambias
 Todo se guarda en el `localStorage` del navegador (clave `paremia:v1`): la
 partida del día (para no perderla al recargar), el historial de puntuaciones y
 la racha de días jugados. No se envía nada a ningún servidor.
+
+## Derechos de autor
+
+© 2026 Emilio Casanova Biscarri. Todos los derechos reservados. El código, los textos y los diseños de este repositorio no pueden copiarse ni reutilizarse sin permiso.
