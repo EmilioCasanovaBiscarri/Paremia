@@ -227,7 +227,7 @@ test('texto para compartir', () => {
     { estado: 'resuelto', pistas: 2 },
     { estado: 'rendido', pistas: 1 }
   ] };
-  assert.equal(L.textoCompartir(4, partida), 'Paremia nº 4 ▰▰▱ 2/3 aciertos\njoseleking.github.io/Paremia');
+  assert.equal(L.textoCompartir(4, partida), 'Paremia nº 4 ▰▰▱ 2/3 aciertos\nemiliocasanovabiscarri.github.io/Paremia');
 });
 
 test('días: FECHA_INICIO es el día 1 y ?dia=N lo fuerza', () => {

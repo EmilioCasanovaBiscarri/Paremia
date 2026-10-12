@@ -367,7 +367,7 @@
   function textoCompartir(dia, partida) {
     var marcas = partida.refranes.map(function (r) { return r.estado === 'rendido' ? '▱' : '▰'; });
     var aciertos = marcas.filter(function (m) { return m === '▰'; }).length;
-    return 'Paremia nº ' + dia + ' ' + marcas.join('') + ' ' + aciertos + '/' + marcas.length + ' aciertos\njoseleking.github.io/Paremia';
+    return 'Paremia nº ' + dia + ' ' + marcas.join('') + ' ' + aciertos + '/' + marcas.length + ' aciertos\nemiliocasanovabiscarri.github.io/Paremia';
   }
 
   // ---------------------------------------------------------------------------
@@ -980,7 +980,7 @@
       htmlEstadisticas('cifras--final') +
       '<div class="pila">' +
       '<button class="btn btn--grande" id="btn-compartir" type="button">Compartir</button>' +
-      '<a class="btn btn--sec btn--enlace" data-almanaque-volver hidden href="https://joseleking.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
+      '<a class="btn btn--sec btn--enlace" data-almanaque-volver hidden href="https://emiliocasanovabiscarri.github.io/Almanaque/">☜ Regresar al Almanaque</a>' +
       '</div>' +
       '<p class="cuenta-atras">Próximos refranes en' +
       ' <time id="cuenta-atras">--:--:--</time></p>' +

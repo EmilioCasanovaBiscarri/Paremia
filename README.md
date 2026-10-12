@@ -21,7 +21,7 @@ y las palabras destapadas se saltan solas. Cada pista (destapar una palabra) y c
 | Rendido o tres fallos | 0 | ⬛ |
 
 Es una PWA estática (HTML, CSS y JavaScript, sin frameworks ni paso de
-compilación) que forma parte de la colección de [Almanaque](https://joseleking.github.io/Almanaque/).
+compilación) que forma parte de la colección de [Almanaque](https://emiliocasanovabiscarri.github.io/Almanaque/).
 
 ## Archivos
 
