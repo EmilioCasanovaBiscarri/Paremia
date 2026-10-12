@@ -816,7 +816,8 @@
     form.addEventListener('submit', function (ev) {
       ev.preventDefault();
       var veredicto = comprobarRespuesta(textoDelEsqueleto(palabras, escrito.letras, destapadas()), refran);
-      if (!escrito.letras.some(Boolean)) veredicto = 'vacio';
+      // Sin nada escrito no se comprueba, salvo que las pistas lo hayan destapado todo.
+      if (!escrito.letras.some(Boolean) && destapadas().length < palabras.length) veredicto = 'vacio';
       if (veredicto === 'vacio') {
         mensaje.textContent = 'Toca los huecos y escribe primero el refrán.';
         mensaje.className = 'respuesta__mensaje';
@@ -869,6 +870,10 @@
       if (ahora.palabra === toca) ahora = casillaVecina(palabras, destapadas(), { palabra: ahora.palabra, hueco: Infinity }, 1);
       fijar(ahora);
       actualizarPistas();
+      if (destapadas().length >= palabras.length) {
+        mensaje.textContent = 'Ya está todo destapado: dale a Comprobar.';
+        mensaje.className = 'respuesta__mensaje';
+      }
       var nueva = document.querySelectorAll('#esqueleto .palabra')[toca];
       if (nueva) nueva.classList.add('is-recien');
     });
