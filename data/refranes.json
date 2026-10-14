@@ -2343,6 +2343,667 @@
           "equivalente": null
         }
       ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Hijo de gato, ratones mata",
+          "clave": "ratones",
+          "variantes": [
+            "Hijo de gato caza ratones"
+          ],
+          "pedante": "El descendiente de un felino doméstico da muerte a pequeños roedores.",
+          "significado": "Los hijos heredan las habilidades y costumbres de sus padres.",
+          "equivalente": null
+        },
+        {
+          "original": "Más discurre un hambriento que cien letrados",
+          "clave": "hambriento",
+          "variantes": [],
+          "pedante": "Razona con mayor agudeza un individuo famélico que un centenar de juristas.",
+          "significado": "La necesidad despierta el ingenio más que el estudio.",
+          "equivalente": null
+        },
+        {
+          "original": "Para muestra, un botón",
+          "clave": "botón",
+          "variantes": [
+            "Para muestra basta un botón"
+          ],
+          "pedante": "A efectos ilustrativos resulta suficiente una única pieza de abrochar.",
+          "significado": "Basta un ejemplo para demostrar lo que se dice.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Gallina vieja hace buen caldo",
+          "clave": "caldo",
+          "variantes": [],
+          "pedante": "El ave de corral de edad avanzada proporciona un excelente consomé.",
+          "significado": "Las personas mayores tienen mucho que aportar por su experiencia.",
+          "equivalente": null
+        },
+        {
+          "original": "Mala hierba nunca muere",
+          "clave": "hierba",
+          "variantes": [],
+          "pedante": "La planta silvestre perjudicial jamás perece.",
+          "significado": "Se dice, en broma, de quien sale indemne de todo, sobre todo si no es muy buena persona.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Ill weeds grow apace."
+          }
+        },
+        {
+          "original": "A la fuerza ahorcan",
+          "clave": "ahorcan",
+          "variantes": [],
+          "pedante": "Por imposición, se ejecuta a los reos mediante soga al cuello.",
+          "significado": "Hay cosas que se hacen solo porque no queda más remedio.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Por Santa Lucía, mengua la noche y crece el día",
+          "clave": "Lucía",
+          "variantes": [
+            "Por Santa Lucía, acorta la noche y alarga el día"
+          ],
+          "pedante": "Al llegar la festividad de cierta mártir siracusana, disminuye el periodo nocturno y se amplía el diurno.",
+          "significado": "Hacia el 13 de diciembre los días empiezan a alargarse (aunque, en rigor, eso pasa tras el solsticio).",
+          "equivalente": null
+        },
+        {
+          "original": "Casa con dos puertas mala es de guardar",
+          "clave": "puertas",
+          "variantes": [],
+          "pedante": "Una vivienda provista de dos accesos resulta difícil de custodiar.",
+          "significado": "Lo que tiene varios frentes abiertos es difícil de vigilar. Es también el título de una comedia de Calderón.",
+          "equivalente": null
+        },
+        {
+          "original": "Ojos vemos, corazones no sabemos",
+          "clave": "corazones",
+          "variantes": [],
+          "pedante": "Los órganos de la visión los percibimos; las vísceras cardiacas, las desconocemos.",
+          "significado": "Por el aspecto no se pueden conocer los sentimientos ni las intenciones de nadie.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cada cual arrima el ascua a su sardina",
+          "clave": "ascua",
+          "variantes": [
+            "Cada uno arrima el ascua a su sardina"
+          ],
+          "pedante": "Todo individuo aproxima el trozo de carbón incandescente a su propio clupeido.",
+          "significado": "Cada uno mira por su propio interés.",
+          "equivalente": null
+        },
+        {
+          "original": "Con la iglesia hemos topado",
+          "clave": "iglesia",
+          "variantes": [
+            "Con la Iglesia hemos dado, Sancho"
+          ],
+          "pedante": "Hemos tropezado con el templo parroquial.",
+          "significado": "Se dice al chocar con un poder o un obstáculo contra el que no se puede luchar. Viene, con cambios, del Quijote.",
+          "equivalente": null
+        },
+        {
+          "original": "De perdidos, al río",
+          "clave": "perdidos",
+          "variantes": [],
+          "pedante": "Una vez extraviados, procede arrojarse a la corriente fluvial.",
+          "significado": "Si ya se ha arriesgado tanto, se sigue hasta el final.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "In for a penny, in for a pound."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Escoba nueva barre bien",
+          "clave": "Escoba",
+          "variantes": [],
+          "pedante": "El utensilio de limpieza recién adquirido arrastra la suciedad con eficacia.",
+          "significado": "Lo nuevo (o quien acaba de llegar) funciona muy bien al principio.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "A new broom sweeps clean."
+          }
+        },
+        {
+          "original": "Gato maullador, nunca buen cazador",
+          "clave": "maullador",
+          "variantes": [],
+          "pedante": "El felino que emite sonidos con frecuencia jamás resulta un depredador eficaz.",
+          "significado": "Quien habla mucho de lo que va a hacer, poco hace.",
+          "equivalente": null
+        },
+        {
+          "original": "En la variedad está el gusto",
+          "clave": "variedad",
+          "variantes": [],
+          "pedante": "La diversidad constituye el fundamento del deleite.",
+          "significado": "Lo variado resulta más agradable que lo monótono.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Variety is the spice of life."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Lo que abunda no daña",
+          "clave": "abunda",
+          "variantes": [],
+          "pedante": "Aquello que se presenta en cantidad no resulta perjudicial.",
+          "significado": "Tener de sobra de algo bueno nunca está de más.",
+          "equivalente": null
+        },
+        {
+          "original": "La letra con sangre entra",
+          "clave": "letra",
+          "variantes": [],
+          "pedante": "El aprendizaje de la escritura penetra acompañado de fluido hemático.",
+          "significado": "Para aprender hace falta esfuerzo (y antiguamente, castigos).",
+          "equivalente": null
+        },
+        {
+          "original": "La mentira tiene las patas cortas",
+          "clave": "mentira",
+          "variantes": [],
+          "pedante": "La falsedad está dotada de extremidades inferiores de escasa longitud.",
+          "significado": "Las mentiras se descubren pronto.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La necesidad aguza el ingenio",
+          "clave": "aguza",
+          "variantes": [],
+          "pedante": "La carencia afila la capacidad inventiva.",
+          "significado": "Cuando falta algo, uno se las arregla para encontrar soluciones.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Necessity is the mother of invention."
+          }
+        },
+        {
+          "original": "Lo barato sale caro",
+          "clave": "barato",
+          "variantes": [],
+          "pedante": "Lo adquirido a bajo precio termina resultando oneroso.",
+          "significado": "Ahorrar en lo que se compra suele salir más caro a la larga.",
+          "equivalente": null
+        },
+        {
+          "original": "Nunca digas de esta agua no beberé",
+          "clave": "beberé",
+          "variantes": [
+            "Nadie diga de esta agua no beberé"
+          ],
+          "pedante": "Jamás afirmes que no ingerirás el líquido de cierta procedencia.",
+          "significado": "Nadie puede asegurar que nunca hará o necesitará algo.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Never say never."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "No todo el monte es orégano",
+          "clave": "orégano",
+          "variantes": [],
+          "pedante": "No la totalidad de la elevación del terreno está cubierta por cierta planta aromática.",
+          "significado": "No todo es fácil ni agradable en la vida.",
+          "equivalente": null
+        },
+        {
+          "original": "Nunca llueve a gusto de todos",
+          "clave": "llueve",
+          "variantes": [],
+          "pedante": "Jamás se precipita el agua de las nubes a satisfacción de la totalidad de los presentes.",
+          "significado": "Es imposible contentar a todo el mundo.",
+          "equivalente": null
+        },
+        {
+          "original": "Para gustos, los colores",
+          "clave": "colores",
+          "variantes": [
+            "Para gustos se hicieron los colores"
+          ],
+          "pedante": "En materia de preferencias, las tonalidades cromáticas.",
+          "significado": "Cada persona tiene sus propias preferencias.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Pobreza no es vileza",
+          "clave": "vileza",
+          "variantes": [],
+          "pedante": "La escasez de recursos no constituye bajeza moral.",
+          "significado": "Ser pobre no es motivo de deshonra.",
+          "equivalente": null
+        },
+        {
+          "original": "Renovarse o morir",
+          "clave": "Renovarse",
+          "variantes": [],
+          "pedante": "Actualizarse o fallecer.",
+          "significado": "Hay que adaptarse a los cambios para no quedarse atrás.",
+          "equivalente": null
+        },
+        {
+          "original": "Rectificar es de sabios",
+          "clave": "Rectificar",
+          "variantes": [],
+          "pedante": "Enmendar lo dicho o hecho es propio de las personas eruditas.",
+          "significado": "Reconocer un error y corregirlo es señal de inteligencia.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Quien se pica, ajos come",
+          "clave": "ajos",
+          "variantes": [],
+          "pedante": "El individuo que se ofende ingiere bulbos de cierta liliácea.",
+          "significado": "Quien se da por aludido es porque tiene algo que ver con lo que se dice.",
+          "equivalente": null
+        },
+        {
+          "original": "Torres más altas han caído",
+          "clave": "Torres",
+          "variantes": [],
+          "pedante": "Construcciones de mayor elevación se han desplomado.",
+          "significado": "Nadie es invencible: cosas más grandes se han venido abajo.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "The bigger they are, the harder they fall."
+          }
+        },
+        {
+          "original": "Todo tiene arreglo menos la muerte",
+          "clave": "arreglo",
+          "variantes": [
+            "Todo tiene remedio menos la muerte"
+          ],
+          "pedante": "La totalidad de las cosas admite reparación, salvo el fallecimiento.",
+          "significado": "No hay que desesperarse: casi todo se puede solucionar.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Vísteme despacio, que tengo prisa",
+          "clave": "despacio",
+          "variantes": [],
+          "pedante": "Cúbreme con prendas de forma pausada, pues me apremia el tiempo.",
+          "significado": "Cuanta más prisa hay, más conviene hacer las cosas con calma para no equivocarse.",
+          "equivalente": null
+        },
+        {
+          "original": "Una mano lava la otra",
+          "clave": "lava",
+          "variantes": [
+            "Una mano lava la otra, y las dos, la cara"
+          ],
+          "pedante": "Una extremidad superior limpia a su homóloga.",
+          "significado": "Ayudándose unos a otros, todos salen ganando.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Manus manum lavat."
+          }
+        },
+        {
+          "original": "Un grano no hace granero, pero ayuda al compañero",
+          "clave": "granero",
+          "variantes": [],
+          "pedante": "Una semilla aislada no constituye un almacén de cereal, pero coopera con su semejante.",
+          "significado": "Las pequeñas aportaciones, sumadas, acaban siendo importantes.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El hombre propone y Dios dispone",
+          "clave": "propone",
+          "variantes": [],
+          "pedante": "El ser humano plantea y la divinidad determina.",
+          "significado": "Por mucho que se planee, el resultado no depende solo de uno.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Homo proponit, sed Deus disponit."
+          }
+        },
+        {
+          "original": "Cada día trae su afán",
+          "clave": "afán",
+          "variantes": [],
+          "pedante": "Cada jornada aporta su propia fatiga.",
+          "significado": "No hay que preocuparse antes de tiempo: cada día tiene sus propias preocupaciones.",
+          "equivalente": null
+        },
+        {
+          "original": "La cara es el espejo del alma",
+          "clave": "espejo",
+          "variantes": [],
+          "pedante": "El rostro es la superficie reflectante del espíritu.",
+          "significado": "La expresión de la cara refleja lo que se siente.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Imago animi vultus est."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "En tiempo de higos no hay amigos",
+          "clave": "higos",
+          "variantes": [],
+          "pedante": "En la temporada de cierto fruto de la higuera no existen camaradas.",
+          "significado": "Cuando uno tiene algo bueno, prefiere no compartirlo.",
+          "equivalente": null
+        },
+        {
+          "original": "No hay que mentar la soga en casa del ahorcado",
+          "clave": "soga",
+          "variantes": [],
+          "pedante": "No conviene mencionar la cuerda en el domicilio de quien murió colgado de ella.",
+          "significado": "No hay que hablar de temas que puedan herir a quien está presente.",
+          "equivalente": null
+        },
+        {
+          "original": "No hay mejor salsa que el hambre",
+          "clave": "salsa",
+          "variantes": [],
+          "pedante": "No existe condimento superior a la necesidad de ingerir alimento.",
+          "significado": "Cuando se tiene hambre, cualquier comida sabe bien.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Hunger is the best sauce."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "De grandes cenas están las sepulturas llenas",
+          "clave": "sepulturas",
+          "variantes": [],
+          "pedante": "Los enterramientos se hallan colmados a causa de colaciones nocturnas copiosas.",
+          "significado": "Comer en exceso, sobre todo por la noche, es malo para la salud.",
+          "equivalente": null
+        },
+        {
+          "original": "Por dinero baila el perro",
+          "clave": "baila",
+          "variantes": [],
+          "pedante": "A cambio de numerario, el cánido ejecuta una danza.",
+          "significado": "Con dinero se consigue casi todo.",
+          "equivalente": null
+        },
+        {
+          "original": "Bueno es culantro, pero no tanto",
+          "clave": "culantro",
+          "variantes": [],
+          "pedante": "El cilantro resulta agradable, aunque no en semejante cantidad.",
+          "significado": "Lo bueno, en exceso, cansa.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "No se acuerda el cura de cuando fue sacristán",
+          "clave": "sacristán",
+          "variantes": [],
+          "pedante": "El párroco ha olvidado la época en que era ayudante en la sacristía.",
+          "significado": "Se dice de quien, al ascender, olvida sus orígenes humildes.",
+          "equivalente": null
+        },
+        {
+          "original": "Lo que se aprende en la cuna siempre dura",
+          "clave": "cuna",
+          "variantes": [],
+          "pedante": "Lo adquirido en el lecho infantil perdura indefinidamente.",
+          "significado": "Lo que se aprende de niño no se olvida.",
+          "equivalente": null
+        },
+        {
+          "original": "Éramos pocos y parió la abuela",
+          "clave": "abuela",
+          "variantes": [],
+          "pedante": "Constituíamos un grupo reducido y la progenitora de nuestros progenitores dio a luz.",
+          "significado": "Se dice cuando a una situación ya complicada se le suma otro problema o más gente.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cada uno hace de su capa un sayo",
+          "clave": "sayo",
+          "variantes": [
+            "Cada cual hace de su capa un sayo"
+          ],
+          "pedante": "Todo individuo convierte su manto en una casaca holgada.",
+          "significado": "Cada uno dispone de lo suyo como le parece.",
+          "equivalente": null
+        },
+        {
+          "original": "Aquí paz y después gloria",
+          "clave": "gloria",
+          "variantes": [],
+          "pedante": "En este lugar, sosiego; y a continuación, bienaventuranza celestial.",
+          "significado": "Se dice para dar por zanjado un asunto o una discusión.",
+          "equivalente": null
+        },
+        {
+          "original": "Al mejor escribano se le echa un borrón",
+          "clave": "escribano",
+          "variantes": [
+            "Al mejor escribano se le cae un borrón"
+          ],
+          "pedante": "Al más hábil de los amanuenses se le escapa una mancha de tinta.",
+          "significado": "Hasta el más experto comete errores.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Quandoque bonus dormitat Homerus."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Donde menos se piensa salta la liebre",
+          "clave": "liebre",
+          "variantes": [],
+          "pedante": "En el lugar más insospechado brinca el lepórido.",
+          "significado": "Las cosas suceden cuando y donde menos se espera.",
+          "equivalente": null
+        },
+        {
+          "original": "La ropa sucia se lava en casa",
+          "clave": "sucia",
+          "variantes": [],
+          "pedante": "Las prendas manchadas se limpian en el propio domicilio.",
+          "significado": "Los problemas de la familia o del grupo no se airean ante los demás.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Don't wash your dirty linen in public."
+          }
+        },
+        {
+          "original": "Músico pagado toca mal son",
+          "clave": "Músico",
+          "variantes": [],
+          "pedante": "El intérprete que ha cobrado por adelantado ejecuta deficientemente la melodía.",
+          "significado": "Quien cobra antes de trabajar no se esmera.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Hasta San Antón, Pascuas son",
+          "clave": "Antón",
+          "variantes": [],
+          "pedante": "Hasta la festividad de cierto anacoreta egipcio, se prolongan las fiestas navideñas.",
+          "significado": "Las fiestas de Navidad se alargan hasta el 17 de enero, día de San Antón.",
+          "equivalente": null
+        },
+        {
+          "original": "A buen hambre no hay pan duro",
+          "clave": "duro",
+          "variantes": [],
+          "pedante": "Ante un apetito considerable no existe producto de panadería endurecido.",
+          "significado": "Cuando hay necesidad, nada parece malo.",
+          "equivalente": null
+        },
+        {
+          "original": "En la tardanza está el peligro",
+          "clave": "tardanza",
+          "variantes": [],
+          "pedante": "En la demora reside el riesgo.",
+          "significado": "Dejar las cosas para más tarde puede salir caro.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El movimiento se demuestra andando",
+          "clave": "movimiento",
+          "variantes": [],
+          "pedante": "El desplazamiento se acredita caminando.",
+          "significado": "Las cosas se prueban con hechos, no con palabras.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Solvitur ambulando."
+          }
+        },
+        {
+          "original": "A río revuelto, ganancia de pescadores",
+          "clave": "pescadores",
+          "variantes": [],
+          "pedante": "En aguas fluviales agitadas obtienen beneficio quienes practican la pesca.",
+          "significado": "En situaciones de confusión, algunos sacan provecho.",
+          "equivalente": null
+        },
+        {
+          "original": "Entre bomberos no nos pisamos la manguera",
+          "clave": "bomberos",
+          "variantes": [],
+          "pedante": "Entre profesionales de la extinción de incendios no aplastamos mutuamente el tubo flexible.",
+          "significado": "Entre colegas de profesión no hay que perjudicarse.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Comer y rascar, todo es empezar",
+          "clave": "rascar",
+          "variantes": [],
+          "pedante": "Ingerir alimentos y frotarse con las uñas: en ambos casos lo único difícil es iniciarse.",
+          "significado": "Muchas cosas cuestan solo al principio; luego se hacen solas.",
+          "equivalente": {
+            "idioma": "francés",
+            "texto": "L'appétit vient en mangeant."
+          }
+        },
+        {
+          "original": "Las desgracias nunca vienen solas",
+          "clave": "desgracias",
+          "variantes": [],
+          "pedante": "Los infortunios jamás se presentan sin compañía.",
+          "significado": "Cuando ocurre una desgracia, suele venir acompañada de otras.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "It never rains but it pours."
+          }
+        },
+        {
+          "original": "Nadie es profeta en su tierra",
+          "clave": "profeta",
+          "variantes": [],
+          "pedante": "Ningún individuo es vidente en su lugar de origen.",
+          "significado": "Cuesta más que te reconozcan los tuyos que los de fuera.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Nemo propheta in patria."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Más vale llegar a tiempo que rondar un año",
+          "clave": "rondar",
+          "variantes": [],
+          "pedante": "Es preferible presentarse en el momento oportuno que cortejar durante doce meses.",
+          "significado": "Más que el esfuerzo, importa aprovechar la ocasión.",
+          "equivalente": null
+        },
+        {
+          "original": "Año nuevo, vida nueva",
+          "clave": "vida",
+          "variantes": [],
+          "pedante": "Con el inicio del periodo anual, existencia renovada.",
+          "significado": "Se dice para proponerse cambios al empezar el año.",
+          "equivalente": null
+        },
+        {
+          "original": "Uvas con queso saben a beso",
+          "clave": "beso",
+          "variantes": [],
+          "pedante": "Los frutos de la vid acompañados de producto lácteo curado tienen sabor a ósculo.",
+          "significado": "Las uvas y el queso combinan de maravilla.",
+          "equivalente": null
+        }
+      ]
     }
   ]
 }
