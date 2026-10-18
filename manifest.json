@@ -4,7 +4,7 @@
   "description": "Tres refranes al día, reescritos en lenguaje de ventanilla. Adivina el original.",
   "lang": "es",
   "dir": "ltr",
-  "id": "./",
+  "id": "/Paremia/",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

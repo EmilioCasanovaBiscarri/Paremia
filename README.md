@@ -127,6 +127,14 @@ que quien tenga la app instalada reciba la versión nueva. Si cambias
 `styles.css` o `app.js`, sube también el `?v=` con el que se cargan en
 `index.html`.
 
+**El `id` de `manifest.json` es `"/Paremia/"` y no se debe volver a cambiar.** Chrome
+identifica la app instalada por él. El `id` no se resuelve respecto a la carpeta, sino
+respecto al origen (`https://emiliocasanovabiscarri.github.io`), así que `"./"` o `"/"`
+darían la raíz del sitio, que comparten todos los juegos. Hasta el 18 de octubre de 2026
+fue `"./"`, y en Android Chrome podía dar por instalado un juego que no lo estaba. Quien
+lo instaló con el `id` antiguo conserva su app, pero Chrome puede ofrecerle instalarla de
+nuevo como otra distinta.
+
 ## Datos del jugador
 
 Todo se guarda en el `localStorage` del navegador (clave `paremia:v1`): la
