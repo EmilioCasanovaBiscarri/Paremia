@@ -3004,6 +3004,2873 @@
           "equivalente": null
         }
       ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Año de nieves, año de bienes",
+          "clave": "nieves",
+          "variantes": [],
+          "pedante": "Un ejercicio anual con abundantes precipitaciones heladas resulta un ejercicio de prosperidad.",
+          "significado": "Un invierno con mucha nieve anuncia buenas cosechas.",
+          "equivalente": null
+        },
+        {
+          "original": "Mañana será otro día",
+          "clave": "día",
+          "variantes": [],
+          "pedante": "La jornada venidera constituirá una jornada distinta.",
+          "significado": "Lo que hoy salió mal puede salir mejor después; no hay que agobiarse.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Tomorrow is another day."
+          }
+        },
+        {
+          "original": "Más vale un mal arreglo que un buen pleito",
+          "clave": "pleito",
+          "variantes": [],
+          "pedante": "Es preferible un acuerdo deficiente a un litigio favorable.",
+          "significado": "Conviene más ceder un poco que ir a juicio, aunque se gane.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El amor es ciego",
+          "clave": "ciego",
+          "variantes": [],
+          "pedante": "El sentimiento afectivo carece del sentido de la vista.",
+          "significado": "Quien está enamorado no ve los defectos de la otra persona.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Love is blind."
+          }
+        },
+        {
+          "original": "Las penas con pan son menos",
+          "clave": "penas",
+          "variantes": [
+            "Los duelos con pan son menos"
+          ],
+          "pedante": "Las aflicciones acompañadas de producto de panadería resultan de menor cuantía.",
+          "significado": "Los disgustos se llevan mejor cuando no falta lo necesario.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien te conoce, que te compre",
+          "clave": "compre",
+          "variantes": [
+            "El que te conozca, que te compre"
+          ],
+          "pedante": "Que adquiera tu persona aquel que esté familiarizado con ella.",
+          "significado": "Se dice a quien presume de virtudes que no tiene.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Ayúdate y Dios te ayudará",
+          "clave": "Ayúdate",
+          "variantes": [],
+          "pedante": "Préstate auxilio a ti mismo y el Altísimo te lo prestará igualmente.",
+          "significado": "Hay que poner de nuestra parte para que las cosas salgan bien.",
+          "equivalente": {
+            "idioma": "francés",
+            "texto": "Aide-toi, le ciel t'aidera."
+          }
+        },
+        {
+          "original": "A perro flaco, todo son pulgas",
+          "clave": "flaco",
+          "variantes": [
+            "Al perro flaco todo se le vuelven pulgas"
+          ],
+          "pedante": "Al can enjuto, cuanto le acontece son parásitos saltadores.",
+          "significado": "A quien ya está mal, todavía le caen más desgracias.",
+          "equivalente": null
+        },
+        {
+          "original": "Donde fuego se hace, humo sale",
+          "clave": "humo",
+          "variantes": [],
+          "pedante": "Allí donde se produce combustión, emana vapor oscuro.",
+          "significado": "Cuando se nota algo, es porque hay un motivo detrás.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La práctica hace al maestro",
+          "clave": "práctica",
+          "variantes": [],
+          "pedante": "El ejercicio reiterado engendra al experto.",
+          "significado": "Para hacer algo bien hay que repetirlo muchas veces.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Practice makes perfect."
+          }
+        },
+        {
+          "original": "El perro del hortelano, que ni come ni deja comer",
+          "clave": "hortelano",
+          "variantes": [
+            "Es como el perro del hortelano, que ni come ni deja comer"
+          ],
+          "pedante": "El can del cultivador de huerta, que ni ingiere alimentos ni permite que otros los ingieran.",
+          "significado": "Se dice de quien no aprovecha algo ni deja que otro lo aproveche.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien hace un cesto, hace ciento",
+          "clave": "cesto",
+          "variantes": [
+            "El que hace un cesto, hace ciento"
+          ],
+          "pedante": "Aquel que confecciona un recipiente de mimbre confecciona una centena.",
+          "significado": "Quien comete una falta una vez, puede repetirla muchas veces.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Contigo pan y cebolla",
+          "clave": "cebolla",
+          "variantes": [],
+          "pedante": "En tu compañía, producto de panadería y bulbo lacrimógeno.",
+          "significado": "Por amor se acepta cualquier estrechez.",
+          "equivalente": null
+        },
+        {
+          "original": "Por los Reyes, lo notan los bueyes",
+          "clave": "bueyes",
+          "variantes": [
+            "Por los Reyes lo conocen los bueyes"
+          ],
+          "pedante": "Llegada la festividad de los Magos de Oriente, los rumiantes de tiro perciben la diferencia.",
+          "significado": "A primeros de enero los días ya empiezan a alargarse.",
+          "equivalente": null
+        },
+        {
+          "original": "Nunca segundas partes fueron buenas",
+          "clave": "segundas",
+          "variantes": [],
+          "pedante": "Jamás las continuaciones resultaron satisfactorias.",
+          "significado": "Repetir algo que ya salió bien suele salir peor.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "No hay quinto malo",
+          "clave": "quinto",
+          "variantes": [],
+          "pedante": "No existe el ejemplar que ocupa la quinta posición que resulte deficiente.",
+          "significado": "Lo dicen los aficionados taurinos: el quinto toro de la tarde suele ser bueno.",
+          "equivalente": null
+        },
+        {
+          "original": "A nadie le amarga un dulce",
+          "clave": "amarga",
+          "variantes": [],
+          "pedante": "A ninguna persona le resulta desagradable una golosina.",
+          "significado": "A todo el mundo le gusta recibir algo bueno.",
+          "equivalente": null
+        },
+        {
+          "original": "Siempre hay un roto para un descosido",
+          "clave": "descosido",
+          "variantes": [
+            "Nunca falta un roto para un descosido"
+          ],
+          "pedante": "En todo momento existe un desgarrón para una costura deshecha.",
+          "significado": "Para cada persona, por rara que sea, hay otra que encaja con ella.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Con las cosas de comer no se juega",
+          "clave": "comer",
+          "variantes": [],
+          "pedante": "Con los asuntos alimenticios no se practica la diversión.",
+          "significado": "Hay cosas que deben tomarse en serio.",
+          "equivalente": null
+        },
+        {
+          "original": "El buey suelto bien se lame",
+          "clave": "suelto",
+          "variantes": [],
+          "pedante": "El rumiante liberado se acicala con la lengua de forma excelente.",
+          "significado": "Quien es libre y no depende de nadie vive a gusto.",
+          "equivalente": null
+        },
+        {
+          "original": "Hambre que espera hartura no es hambre ninguna",
+          "clave": "hartura",
+          "variantes": [],
+          "pedante": "El apetito que aguarda saciedad no constituye apetito alguno.",
+          "significado": "Se aguanta cualquier privación si se sabe que pronto acabará.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La ignorancia es atrevida",
+          "clave": "ignorancia",
+          "variantes": [],
+          "pedante": "El desconocimiento resulta osado.",
+          "significado": "Quien menos sabe es quien más se lanza a opinar.",
+          "equivalente": null
+        },
+        {
+          "original": "Por la caridad entra la peste",
+          "clave": "caridad",
+          "variantes": [],
+          "pedante": "A través de la benevolencia penetra la epidemia.",
+          "significado": "A veces, por hacer un favor, uno se mete en problemas.",
+          "equivalente": null
+        },
+        {
+          "original": "Más vale un «por si acaso» que un «quién pensara»",
+          "clave": "acaso",
+          "variantes": [],
+          "pedante": "Resulta preferible una precaución eventual que una exclamación de sorpresa posterior.",
+          "significado": "Es mejor prevenir que lamentarse después.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El que paga, manda",
+          "clave": "manda",
+          "variantes": [
+            "Quien paga, manda"
+          ],
+          "pedante": "Aquel que abona el importe es quien dispone.",
+          "significado": "Quien pone el dinero decide.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "He who pays the piper calls the tune."
+          }
+        },
+        {
+          "original": "Más moscas se cazan con miel que con hiel",
+          "clave": "miel",
+          "variantes": [
+            "Se cazan más moscas con miel que con hiel"
+          ],
+          "pedante": "Se capturan más dípteros con néctar de abeja que con bilis.",
+          "significado": "Se consigue más con amabilidad que con malos modos.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "You catch more flies with honey than with vinegar."
+          }
+        },
+        {
+          "original": "Bien sabe el asno en cuya cara rebuzna",
+          "clave": "rebuzna",
+          "variantes": [],
+          "pedante": "Perfectamente conoce el jumento ante qué rostro emite su sonido.",
+          "significado": "Cada cual sabe con quién puede tomarse confianzas.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La esperanza es lo último que se pierde",
+          "clave": "esperanza",
+          "variantes": [],
+          "pedante": "La expectativa favorable constituye lo postrero que se extravía.",
+          "significado": "Nunca hay que perder la ilusión, por mal que vayan las cosas.",
+          "equivalente": null
+        },
+        {
+          "original": "Cuentas claras, amistades largas",
+          "clave": "amistades",
+          "variantes": [],
+          "pedante": "Cómputos transparentes, relaciones de afecto duraderas.",
+          "significado": "Para conservar a los amigos, conviene no mezclar el dinero con la confusión.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Short reckonings make long friends."
+          }
+        },
+        {
+          "original": "Pan ajeno, caro cuesta",
+          "clave": "ajeno",
+          "variantes": [],
+          "pedante": "El producto de panadería de otra persona tiene un precio elevado.",
+          "significado": "Depender de los demás acaba saliendo caro.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Quien pregunta no yerra",
+          "clave": "pregunta",
+          "variantes": [
+            "El que pregunta no se equivoca"
+          ],
+          "pedante": "Aquel que formula interrogantes no comete error.",
+          "significado": "Preguntar evita equivocarse.",
+          "equivalente": null
+        },
+        {
+          "original": "Lo bueno, si breve, dos veces bueno",
+          "clave": "breve",
+          "variantes": [],
+          "pedante": "Lo positivo, cuando es conciso, resulta doblemente positivo.",
+          "significado": "Las cosas buenas, mejor si no se alargan. Es una frase de Baltasar Gracián.",
+          "equivalente": null
+        },
+        {
+          "original": "Juntos, pero no revueltos",
+          "clave": "revueltos",
+          "variantes": [],
+          "pedante": "Reunidos, mas no mezclados.",
+          "significado": "Se puede estar cerca de alguien sin confundirse con él.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Nadie nace sabiendo",
+          "clave": "nace",
+          "variantes": [],
+          "pedante": "Ninguna persona viene al mundo con conocimientos.",
+          "significado": "Todo se aprende; no hay que avergonzarse de no saber.",
+          "equivalente": null
+        },
+        {
+          "original": "A buen sueño no hay mala cama",
+          "clave": "sueño",
+          "variantes": [],
+          "pedante": "Para un descanso nocturno satisfactorio no existe lecho deficiente.",
+          "significado": "Cuando se tiene mucho sueño, se duerme en cualquier sitio.",
+          "equivalente": null
+        },
+        {
+          "original": "Mal ajeno de pelo cuelga",
+          "clave": "pelo",
+          "variantes": [],
+          "pedante": "La desgracia de otra persona pende de un cabello.",
+          "significado": "Los problemas de los demás nos parecen poca cosa.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Hablando se entiende la gente",
+          "clave": "Hablando",
+          "variantes": [],
+          "pedante": "Mediante la conversación se comprenden las personas.",
+          "significado": "Los conflictos se resuelven dialogando.",
+          "equivalente": null
+        },
+        {
+          "original": "El que nada debe, nada teme",
+          "clave": "teme",
+          "variantes": [
+            "Quien nada debe, nada teme"
+          ],
+          "pedante": "Aquel que no tiene deudas no siente temor alguno.",
+          "significado": "Quien tiene la conciencia tranquila no tiene miedo.",
+          "equivalente": null
+        },
+        {
+          "original": "Tripas llevan pies, que no pies tripas",
+          "clave": "Tripas",
+          "variantes": [],
+          "pedante": "Las vísceras transportan las extremidades inferiores, y no las extremidades a las vísceras.",
+          "significado": "Sin comer no se puede trabajar ni caminar.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El dinero no da la felicidad",
+          "clave": "felicidad",
+          "variantes": [],
+          "pedante": "El capital monetario no proporciona la dicha.",
+          "significado": "Tener dinero no basta para ser feliz.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Money can't buy happiness."
+          }
+        },
+        {
+          "original": "No hay enemigo pequeño",
+          "clave": "pequeño",
+          "variantes": [
+            "No hay enemigo chico"
+          ],
+          "pedante": "No existe adversario de dimensiones reducidas.",
+          "significado": "No hay que subestimar a nadie.",
+          "equivalente": null
+        },
+        {
+          "original": "Al buen pagador no le duelen prendas",
+          "clave": "pagador",
+          "variantes": [],
+          "pedante": "Al cumplidor de sus pagos no le apenan las garantías.",
+          "significado": "Quien piensa cumplir no tiene problema en dar garantías.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Madre no hay más que una",
+          "clave": "Madre",
+          "variantes": [],
+          "pedante": "Progenitora únicamente existe una.",
+          "significado": "La madre es insustituible.",
+          "equivalente": null
+        },
+        {
+          "original": "Donde hubo fuego, cenizas quedan",
+          "clave": "cenizas",
+          "variantes": [],
+          "pedante": "En el lugar donde hubo combustión permanecen residuos de la misma.",
+          "significado": "De un gran amor siempre queda algo.",
+          "equivalente": null
+        },
+        {
+          "original": "Al que le pique, que se rasque",
+          "clave": "pique",
+          "variantes": [
+            "A quien le pique, que se rasque"
+          ],
+          "pedante": "A quien sienta escozor, que se frote.",
+          "significado": "Quien se sienta aludido, que se aguante.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Divide y vencerás",
+          "clave": "Divide",
+          "variantes": [],
+          "pedante": "Fracciona y obtendrás la victoria.",
+          "significado": "Para dominar a un grupo, conviene enfrentar a sus miembros entre sí.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Divide et impera."
+          }
+        },
+        {
+          "original": "El miedo es libre",
+          "clave": "miedo",
+          "variantes": [],
+          "pedante": "El temor no está sujeto a restricciones.",
+          "significado": "Cada cual puede tener miedo de lo que quiera.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien bien ama, tarde olvida",
+          "clave": "ama",
+          "variantes": [
+            "El que bien ama, tarde olvida"
+          ],
+          "pedante": "Aquel que quiere intensamente se demora en borrar de su memoria.",
+          "significado": "El amor verdadero cuesta mucho olvidarlo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Por San Antón, la gallina pon",
+          "clave": "gallina",
+          "variantes": [
+            "Por San Antón, cada gallina pon"
+          ],
+          "pedante": "Al llegar la festividad del santo de los animales, el ave de corral pone huevos.",
+          "significado": "A mediados de enero, con más horas de luz, las gallinas vuelven a poner.",
+          "equivalente": null
+        },
+        {
+          "original": "Tiempo al tiempo",
+          "clave": "Tiempo",
+          "variantes": [],
+          "pedante": "Concédase plazo al transcurso de las horas.",
+          "significado": "Hay que tener paciencia y esperar.",
+          "equivalente": null
+        },
+        {
+          "original": "Asno con oro alcánzalo todo",
+          "clave": "Asno",
+          "variantes": [],
+          "pedante": "Un jumento cargado de metal precioso lo consigue absolutamente todo.",
+          "significado": "Con dinero hasta el más torpe consigue lo que quiere.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Errar es humano",
+          "clave": "Errar",
+          "variantes": [],
+          "pedante": "Equivocarse es propio de nuestra especie.",
+          "significado": "Todos cometemos errores.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Errare humanum est."
+          }
+        },
+        {
+          "original": "Piensa mal y acertarás",
+          "clave": "acertarás",
+          "variantes": [],
+          "pedante": "Reflexiona con malicia y darás en el blanco.",
+          "significado": "Desconfiar suele ser lo más acertado.",
+          "equivalente": null
+        },
+        {
+          "original": "Hay más días que longanizas",
+          "clave": "longanizas",
+          "variantes": [],
+          "pedante": "Existen más jornadas que embutidos de cerdo alargados.",
+          "significado": "Hay que administrarse, porque queda mucho tiempo por delante.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "En la guerra y en el amor, todo vale",
+          "clave": "guerra",
+          "variantes": [
+            "En el amor y en la guerra todo vale"
+          ],
+          "pedante": "En el conflicto bélico y en el sentimiento afectivo, cualquier recurso es lícito.",
+          "significado": "Cuando se quiere ganar algo con pasión, no se repara en medios.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "All's fair in love and war."
+          }
+        },
+        {
+          "original": "Más vale pan duro que ninguno",
+          "clave": "ninguno",
+          "variantes": [],
+          "pedante": "Resulta preferible producto de panadería endurecido que ausencia de él.",
+          "significado": "Algo, aunque sea poco, es mejor que nada.",
+          "equivalente": null
+        },
+        {
+          "original": "No dejes camino viejo por sendero nuevo",
+          "clave": "sendero",
+          "variantes": [],
+          "pedante": "No abandones la vía antigua por una senda reciente.",
+          "significado": "Lo conocido y probado es más seguro que lo nuevo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El tiempo todo lo cura",
+          "clave": "todo",
+          "variantes": [
+            "El tiempo lo cura todo"
+          ],
+          "pedante": "El transcurso de los días sana la totalidad de las dolencias.",
+          "significado": "Con el paso del tiempo se superan las penas.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Time heals all wounds."
+          }
+        },
+        {
+          "original": "Quien todo lo quiere, todo lo pierde",
+          "clave": "pierde",
+          "variantes": [
+            "El que todo lo quiere, todo lo pierde"
+          ],
+          "pedante": "Aquel que lo desea absolutamente todo lo extravía absolutamente todo.",
+          "significado": "La ambición desmedida lleva a quedarse sin nada.",
+          "equivalente": null
+        },
+        {
+          "original": "Pobre porfiado saca mendrugo",
+          "clave": "porfiado",
+          "variantes": [],
+          "pedante": "El menesteroso insistente obtiene un trozo de pan duro.",
+          "significado": "Quien insiste acaba consiguiendo algo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Una vez al año no hace daño",
+          "clave": "daño",
+          "variantes": [],
+          "pedante": "Una ocasión cada doce meses no provoca perjuicio.",
+          "significado": "Un exceso de vez en cuando no es grave.",
+          "equivalente": null
+        },
+        {
+          "original": "A la ocasión la pintan calva",
+          "clave": "calva",
+          "variantes": [],
+          "pedante": "A la oportunidad la representan sin cabello.",
+          "significado": "Las oportunidades hay que agarrarlas al vuelo, porque no vuelven.",
+          "equivalente": null
+        },
+        {
+          "original": "Casa donde no hay harina, todo es mohína",
+          "clave": "mohína",
+          "variantes": [
+            "Donde no hay harina, todo es mohína"
+          ],
+          "pedante": "En el hogar donde falta polvo de cereal, todo es enojo.",
+          "significado": "Cuando falta lo necesario, todo son disputas en casa.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Si quieres la paz, prepárate para la guerra",
+          "clave": "paz",
+          "variantes": [],
+          "pedante": "Si deseas la concordia, apréstate para el conflicto armado.",
+          "significado": "Estar preparado para defenderse es la mejor manera de evitar ataques.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Si vis pacem, para bellum."
+          }
+        },
+        {
+          "original": "Cada casa es un mundo",
+          "clave": "mundo",
+          "variantes": [],
+          "pedante": "Cada vivienda constituye un planeta.",
+          "significado": "Cada familia tiene sus costumbres y sus problemas.",
+          "equivalente": null
+        },
+        {
+          "original": "Al gallo que canta, le aprietan la garganta",
+          "clave": "garganta",
+          "variantes": [],
+          "pedante": "Al ave de corral que emite su canto le oprimen el cuello.",
+          "significado": "A quien habla más de la cuenta acaban haciéndole callar.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "No pidas peras al olmo",
+          "clave": "peras",
+          "variantes": [
+            "No le pidas peras al olmo"
+          ],
+          "pedante": "No solicites frutos del peral al árbol de la familia de las ulmáceas.",
+          "significado": "No hay que esperar de alguien lo que no puede dar.",
+          "equivalente": null
+        },
+        {
+          "original": "El que se va sin que lo echen, vuelve sin que lo llamen",
+          "clave": "echen",
+          "variantes": [
+            "Quien se va sin que lo echen, vuelve sin que lo llamen"
+          ],
+          "pedante": "Aquel que se marcha sin ser expulsado regresa sin ser convocado.",
+          "significado": "Quien se ofende por nada, enseguida vuelve como si nada.",
+          "equivalente": null
+        },
+        {
+          "original": "Hacer de la necesidad virtud",
+          "clave": "necesidad",
+          "variantes": [],
+          "pedante": "Convertir la carencia en mérito.",
+          "significado": "Aprovechar una situación forzada para sacar algo bueno.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Nunca es tarde para aprender",
+          "clave": "aprender",
+          "variantes": [],
+          "pedante": "En ningún momento resulta demasiado tardío para instruirse.",
+          "significado": "A cualquier edad se puede aprender algo nuevo.",
+          "equivalente": null
+        },
+        {
+          "original": "Al que Dios se la dé, San Pedro se la bendiga",
+          "clave": "bendiga",
+          "variantes": [
+            "A quien Dios se la dé, San Pedro se la bendiga"
+          ],
+          "pedante": "A quien el Altísimo se la conceda, que el apóstol de las llaves se la santifique.",
+          "significado": "Hay que aceptar la suerte de cada uno, sin envidias.",
+          "equivalente": null
+        },
+        {
+          "original": "Fraile que pide por Dios, pide para dos",
+          "clave": "Fraile",
+          "variantes": [],
+          "pedante": "El religioso que solicita en nombre del Señor solicita para una pareja.",
+          "significado": "Quien pide para otros también se está pidiendo para él.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Poco a poco se va lejos",
+          "clave": "lejos",
+          "variantes": [],
+          "pedante": "Paulatinamente se alcanzan distancias remotas.",
+          "significado": "Con constancia se llega lejos.",
+          "equivalente": {
+            "idioma": "italiano",
+            "texto": "Chi va piano va sano e va lontano."
+          }
+        },
+        {
+          "original": "La necesidad tiene cara de hereje",
+          "clave": "hereje",
+          "variantes": [],
+          "pedante": "La carencia posee rostro de apóstata.",
+          "significado": "La miseria obliga a hacer cosas que uno no haría.",
+          "equivalente": null
+        },
+        {
+          "original": "De aquellos polvos vienen estos lodos",
+          "clave": "lodos",
+          "variantes": [],
+          "pedante": "De aquellas partículas de tierra seca proceden estos barros.",
+          "significado": "Los problemas de hoy vienen de errores del pasado.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Dad al César lo que es del César",
+          "clave": "César",
+          "variantes": [
+            "Al César lo que es del César"
+          ],
+          "pedante": "Entregad al emperador romano lo que pertenece al emperador romano.",
+          "significado": "Hay que dar a cada uno lo que le corresponde.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Reddite quae sunt Caesaris Caesari."
+          }
+        },
+        {
+          "original": "Quien tiene arte, va a todas partes",
+          "clave": "arte",
+          "variantes": [
+            "El que tiene arte, va a todas partes"
+          ],
+          "pedante": "Aquel que posee habilidad acude a cualquier lugar.",
+          "significado": "Quien tiene talento se abre camino donde vaya.",
+          "equivalente": null
+        },
+        {
+          "original": "A quien Dios no le da hijos, el diablo le da sobrinos",
+          "clave": "sobrinos",
+          "variantes": [],
+          "pedante": "A quien el Altísimo no concede descendencia, el maligno le proporciona hijos de sus hermanos.",
+          "significado": "Quien no tiene hijos acaba cargando con los de otros.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "No solo de pan vive el hombre",
+          "clave": "vive",
+          "variantes": [],
+          "pedante": "No exclusivamente de producto de panadería subsiste el ser humano.",
+          "significado": "Además de lo material, las personas necesitan otras cosas.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Non in solo pane vivit homo."
+          }
+        },
+        {
+          "original": "Cuando el hambre entra por la puerta, el amor sale por la ventana",
+          "clave": "ventana",
+          "variantes": [],
+          "pedante": "Cuando la necesidad de alimento penetra por la entrada, el cariño se marcha por el vano de la fachada.",
+          "significado": "La pobreza acaba con el cariño.",
+          "equivalente": null
+        },
+        {
+          "original": "Lo que se hereda no se hurta",
+          "clave": "hereda",
+          "variantes": [],
+          "pedante": "Aquello que se recibe por sucesión no se sustrae.",
+          "significado": "Se dice cuando alguien se parece a sus padres en algo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La fe mueve montañas",
+          "clave": "montañas",
+          "variantes": [],
+          "pedante": "La creencia desplaza elevaciones del terreno.",
+          "significado": "Con convicción se logran cosas que parecían imposibles.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Faith can move mountains."
+          }
+        },
+        {
+          "original": "Más vale ser envidiado que compadecido",
+          "clave": "envidiado",
+          "variantes": [],
+          "pedante": "Resulta preferible suscitar codicia que suscitar lástima.",
+          "significado": "Es mejor que te envidien a que te tengan pena.",
+          "equivalente": null
+        },
+        {
+          "original": "Si la envidia fuera tiña, cuántos tiñosos habría",
+          "clave": "tiña",
+          "variantes": [],
+          "pedante": "Si la codicia del bien ajeno fuera una afección del cuero cabelludo, cuántos afectados existirían.",
+          "significado": "La envidia está mucho más extendida de lo que parece.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Todo lo bueno se acaba",
+          "clave": "bueno",
+          "variantes": [],
+          "pedante": "La totalidad de lo positivo llega a su término.",
+          "significado": "Hay que disfrutar de lo bueno, porque no dura para siempre.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "All good things must come to an end."
+          }
+        },
+        {
+          "original": "El que tropieza y no cae, adelanta camino",
+          "clave": "tropieza",
+          "variantes": [
+            "Quien tropieza y no cae, adelanta camino"
+          ],
+          "pedante": "Aquel que da un traspié sin desplomarse avanza en su recorrido.",
+          "significado": "Un contratiempo superado nos hace avanzar.",
+          "equivalente": null
+        },
+        {
+          "original": "Muerto el burro, la cebada al rabo",
+          "clave": "cebada",
+          "variantes": [
+            "Muerto el asno, la cebada al rabo"
+          ],
+          "pedante": "Fallecido el jumento, el grano para pienso junto a su cola.",
+          "significado": "Las ayudas que llegan tarde ya no sirven de nada.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La paciencia es la madre de la ciencia",
+          "clave": "paciencia",
+          "variantes": [],
+          "pedante": "La calma perseverante es progenitora del conocimiento.",
+          "significado": "Para aprender y lograr cosas hace falta paciencia.",
+          "equivalente": null
+        },
+        {
+          "original": "Al enemigo, ni agua",
+          "clave": "agua",
+          "variantes": [],
+          "pedante": "Al adversario, ni siquiera líquido elemento.",
+          "significado": "Al rival no hay que darle ninguna ventaja.",
+          "equivalente": null
+        },
+        {
+          "original": "Más hace el que quiere que el que puede",
+          "clave": "puede",
+          "variantes": [],
+          "pedante": "Más consigue quien desea que quien tiene capacidad.",
+          "significado": "La voluntad vale más que los medios.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Los extremos se tocan",
+          "clave": "extremos",
+          "variantes": [],
+          "pedante": "Los límites opuestos entran en contacto.",
+          "significado": "Las cosas muy opuestas acaban pareciéndose.",
+          "equivalente": null
+        },
+        {
+          "original": "Antes de que te cases, mira lo que haces",
+          "clave": "haces",
+          "variantes": [
+            "Antes que te cases, mira lo que haces"
+          ],
+          "pedante": "Previamente a contraer matrimonio, examina tus actos.",
+          "significado": "Las decisiones importantes hay que pensarlas bien.",
+          "equivalente": null
+        },
+        {
+          "original": "Pleitos tengas y los ganes",
+          "clave": "Pleitos",
+          "variantes": [],
+          "pedante": "Que tengas litigios y que resulten a tu favor.",
+          "significado": "Es una maldición: aun ganando un juicio, se pierde mucho por el camino.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Febrerillo el loco, con sus días veintiocho",
+          "clave": "Febrerillo",
+          "variantes": [
+            "Febrerillo loco, con sus días veintiocho"
+          ],
+          "pedante": "El segundo mes, perturbado, con sus jornadas que suman cuatro semanas justas.",
+          "significado": "Febrero es corto y de tiempo muy cambiante.",
+          "equivalente": null
+        },
+        {
+          "original": "Lo poco agrada y lo mucho enfada",
+          "clave": "enfada",
+          "variantes": [],
+          "pedante": "Lo escaso complace y lo abundante irrita.",
+          "significado": "Hasta lo bueno cansa si es demasiado.",
+          "equivalente": null
+        },
+        {
+          "original": "Con mal o con bien, a los tuyos te atén",
+          "clave": "atén",
+          "variantes": [],
+          "pedante": "Sea por las malas o por las buenas, mantente junto a los de tu sangre.",
+          "significado": "En lo bueno y en lo malo, hay que estar con los propios.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "En febrero, busca la sombra el perro",
+          "clave": "sombra",
+          "variantes": [],
+          "pedante": "En el segundo mes del año, el can procura la zona sin sol.",
+          "significado": "A finales de invierno ya hay días en que el sol calienta.",
+          "equivalente": null
+        },
+        {
+          "original": "Primero son mis dientes que mis parientes",
+          "clave": "parientes",
+          "variantes": [],
+          "pedante": "Antes van mis piezas dentales que mis familiares.",
+          "significado": "Cada uno piensa primero en sí mismo.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien siembra espinos, no ande descalzo",
+          "clave": "espinos",
+          "variantes": [
+            "El que siembra espinos, que no ande descalzo"
+          ],
+          "pedante": "Aquel que planta arbustos punzantes, que no camine sin calzado.",
+          "significado": "Quien hace daño debe estar prevenido para recibirlo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Agua de febrero llena el granero",
+          "clave": "llena",
+          "variantes": [],
+          "pedante": "El líquido que cae en el segundo mes colma el almacén de cereales.",
+          "significado": "La lluvia de febrero es buena para las cosechas.",
+          "equivalente": null
+        },
+        {
+          "original": "El que persevera, alcanza",
+          "clave": "persevera",
+          "variantes": [
+            "Quien persevera, alcanza"
+          ],
+          "pedante": "Aquel que se mantiene firme en su empeño logra su objetivo.",
+          "significado": "La constancia da frutos.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien da pan a perro ajeno, pierde el pan y pierde el perro",
+          "clave": "perro",
+          "variantes": [
+            "El que da pan a perro ajeno, pierde el pan y pierde el perro"
+          ],
+          "pedante": "Quien proporciona alimento al can de otro se queda sin alimento y sin can.",
+          "significado": "Hacer favores a quien no corresponde suele salir mal.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Nadie da duros a cuatro pesetas",
+          "clave": "duros",
+          "variantes": [
+            "Nadie da duros a peseta"
+          ],
+          "pedante": "Ninguna persona entrega monedas de cinco a cambio de cuatro.",
+          "significado": "Desconfía de los regalos demasiado buenos.",
+          "equivalente": null
+        },
+        {
+          "original": "La verdad, como el aceite, siempre queda encima",
+          "clave": "aceite",
+          "variantes": [
+            "La verdad, como el aceite, siempre sale a flote"
+          ],
+          "pedante": "Lo cierto, igual que el jugo de la oliva, permanece siempre en la superficie.",
+          "significado": "Antes o después, la verdad se descubre.",
+          "equivalente": null
+        },
+        {
+          "original": "Unos por otros, la casa sin barrer",
+          "clave": "barrer",
+          "variantes": [],
+          "pedante": "Por culpa de los unos y de los otros, la vivienda queda sin escobar.",
+          "significado": "Cuando todos esperan que lo haga otro, nadie hace nada.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El que no corre, vuela",
+          "clave": "vuela",
+          "variantes": [
+            "Aquí el que no corre, vuela"
+          ],
+          "pedante": "Aquel que no se desplaza deprisa se desplaza por el aire.",
+          "significado": "Todo el mundo se espabila para aprovechar la ocasión.",
+          "equivalente": null
+        },
+        {
+          "original": "Desnudar a un santo para vestir a otro",
+          "clave": "Desnudar",
+          "variantes": [
+            "Desvestir un santo para vestir otro"
+          ],
+          "pedante": "Despojar de ropa a un bienaventurado para cubrir con ella a otro.",
+          "significado": "Solucionar un problema creando otro.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Rob Peter to pay Paul."
+          }
+        },
+        {
+          "original": "Honra y provecho no caben en un saco",
+          "clave": "provecho",
+          "variantes": [],
+          "pedante": "El honor y el beneficio no entran juntos en un mismo costal.",
+          "significado": "Es difícil hacerse rico sin perder algo de honradez.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Paciencia y barajar",
+          "clave": "barajar",
+          "variantes": [],
+          "pedante": "Calma perseverante y mezclar los naipes.",
+          "significado": "Hay que aguantar y volver a intentarlo. Lo dice Durandarte en el Quijote.",
+          "equivalente": null
+        },
+        {
+          "original": "A cada pajarillo le gusta su nidillo",
+          "clave": "nidillo",
+          "variantes": [
+            "A cada pajarito le gusta su nidito"
+          ],
+          "pedante": "A cada ave diminuta le agrada su pequeño refugio de ramitas.",
+          "significado": "Cada uno está más a gusto en su casa.",
+          "equivalente": null
+        },
+        {
+          "original": "Secreto de dos, secreto de Dios; secreto de tres, de todos es",
+          "clave": "Secreto",
+          "variantes": [],
+          "pedante": "Confidencia entre una pareja, confidencia divina; confidencia entre un trío, pertenece al público.",
+          "significado": "Un secreto que conocen muchos deja de serlo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El papel lo aguanta todo",
+          "clave": "papel",
+          "variantes": [],
+          "pedante": "El soporte de celulosa lo soporta absolutamente todo.",
+          "significado": "Por escrito se puede afirmar cualquier cosa, aunque no sea verdad.",
+          "equivalente": null
+        },
+        {
+          "original": "Ave que vuela, a la cazuela",
+          "clave": "cazuela",
+          "variantes": [],
+          "pedante": "Pájaro que surca el aire, al recipiente de barro para guisar.",
+          "significado": "Hay que aprovechar todo lo que se pone a tiro.",
+          "equivalente": null
+        },
+        {
+          "original": "Mucho te quiero, perrito, pero pan poquito",
+          "clave": "perrito",
+          "variantes": [],
+          "pedante": "Te tengo gran cariño, pequeño can, mas producto de panadería en mínima cantidad.",
+          "significado": "Hay quien da mucho cariño de palabra y poco de hecho.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Preguntando se llega a Roma",
+          "clave": "Preguntando",
+          "variantes": [],
+          "pedante": "Formulando interrogantes se alcanza la capital italiana.",
+          "significado": "Preguntando se consigue llegar a cualquier sitio.",
+          "equivalente": null
+        },
+        {
+          "original": "Ladran, luego cabalgamos",
+          "clave": "cabalgamos",
+          "variantes": [
+            "Ladran, Sancho, señal que cabalgamos"
+          ],
+          "pedante": "Emiten ladridos; en consecuencia, avanzamos a lomos de caballería.",
+          "significado": "Si nos critican, es que estamos avanzando. Suele atribuirse al Quijote, pero no aparece en él.",
+          "equivalente": null
+        },
+        {
+          "original": "Amigo del buen tiempo, múdase con el viento",
+          "clave": "múdase",
+          "variantes": [],
+          "pedante": "El compañero de las épocas prósperas cambia según sople el aire.",
+          "significado": "El falso amigo desaparece en cuanto llegan los problemas.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cada uno se rasca donde le pica",
+          "clave": "rasca",
+          "variantes": [
+            "Cada cual se rasca donde le pica"
+          ],
+          "pedante": "Cada individuo se frota allí donde siente escozor.",
+          "significado": "Cada cual se ocupa de lo que le afecta.",
+          "equivalente": null
+        },
+        {
+          "original": "Al que le venga el guante, que se lo plante",
+          "clave": "guante",
+          "variantes": [
+            "A quien le venga el guante, que se lo plante"
+          ],
+          "pedante": "A quien le ajuste la prenda de la mano, que se la coloque.",
+          "significado": "Quien se sienta aludido, que se dé por enterado.",
+          "equivalente": null
+        },
+        {
+          "original": "Consejos vendo y para mí no tengo",
+          "clave": "vendo",
+          "variantes": [
+            "Consejos vendo, que para mí no tengo"
+          ],
+          "pedante": "Recomendaciones comercializo y para mi persona carezco de ellas.",
+          "significado": "Se dice de quien aconseja lo que él mismo no hace.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "En el país de los ciegos, el tuerto es rey",
+          "clave": "tuerto",
+          "variantes": [
+            "En tierra de ciegos, el tuerto es rey"
+          ],
+          "pedante": "En la nación de los invidentes, el que ve con un solo ojo es monarca.",
+          "significado": "Entre gente que sabe poco, destaca quien sabe un poco más.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "In regione caecorum rex est luscus."
+          }
+        },
+        {
+          "original": "Quien no oye consejo no llega a viejo",
+          "clave": "consejo",
+          "variantes": [
+            "El que no oye consejo no llega a viejo"
+          ],
+          "pedante": "Aquel que desatiende las recomendaciones no alcanza la ancianidad.",
+          "significado": "Escuchar a los demás evita muchos disgustos.",
+          "equivalente": null
+        },
+        {
+          "original": "Cara de beato y uñas de gato",
+          "clave": "beato",
+          "variantes": [],
+          "pedante": "Rostro de devoto y garras de felino.",
+          "significado": "Se dice de quien parece bueno y es un aprovechado.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Ver, oír y callar",
+          "clave": "callar",
+          "variantes": [
+            "Oír, ver y callar"
+          ],
+          "pedante": "Observar, escuchar y guardar silencio.",
+          "significado": "Lo más prudente es no meterse en lo que no le importa a uno.",
+          "equivalente": null
+        },
+        {
+          "original": "No hay que buscarle tres pies al gato",
+          "clave": "pies",
+          "variantes": [
+            "No le busques tres pies al gato"
+          ],
+          "pedante": "No conviene indagar tres extremidades en el felino.",
+          "significado": "No hay que complicar las cosas ni buscar problemas donde no los hay.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien juega por necesidad, pierde por obligación",
+          "clave": "obligación",
+          "variantes": [
+            "El que juega por necesidad, pierde por obligación"
+          ],
+          "pedante": "Aquel que apuesta por carencia sale derrotado por deber.",
+          "significado": "El juego no resuelve los apuros económicos: los empeora.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Desayuna como un rey, come como un príncipe y cena como un mendigo",
+          "clave": "mendigo",
+          "variantes": [],
+          "pedante": "Toma la primera comida como un monarca, la principal como un heredero y la última como un pordiosero.",
+          "significado": "Conviene cenar ligero y desayunar bien.",
+          "equivalente": null
+        },
+        {
+          "original": "El hombre es el único animal que tropieza dos veces con la misma piedra",
+          "clave": "piedra",
+          "variantes": [],
+          "pedante": "El ser humano es la sola criatura que da un traspié en dos ocasiones con idéntico guijarro.",
+          "significado": "Las personas repetimos los mismos errores.",
+          "equivalente": null
+        },
+        {
+          "original": "Ojo al Cristo, que es de plata",
+          "clave": "Cristo",
+          "variantes": [],
+          "pedante": "Atención a la imagen del Redentor, que es de metal precioso.",
+          "significado": "Hay que vigilar bien las cosas de valor.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Más vale una palabra a tiempo que cien a destiempo",
+          "clave": "destiempo",
+          "variantes": [],
+          "pedante": "Resulta preferible un vocablo oportuno que una centena inoportunos.",
+          "significado": "Hay que saber decir las cosas en el momento justo.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien te cubre, te descubre",
+          "clave": "cubre",
+          "variantes": [
+            "El que te cubre, te descubre"
+          ],
+          "pedante": "Aquel que te encubre te pone al descubierto.",
+          "significado": "Quien conoce tus secretos puede acabar revelándolos.",
+          "equivalente": null
+        },
+        {
+          "original": "Bien predica quien bien vive",
+          "clave": "predica",
+          "variantes": [],
+          "pedante": "Sermonea correctamente aquel que existe correctamente.",
+          "significado": "El mejor consejo es el ejemplo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Los amores reñidos son los más queridos",
+          "clave": "reñidos",
+          "variantes": [],
+          "pedante": "Los afectos con disputas son los más apreciados.",
+          "significado": "Las parejas que discuten a menudo se quieren mucho.",
+          "equivalente": null
+        },
+        {
+          "original": "Amor con hambre no dura",
+          "clave": "dura",
+          "variantes": [],
+          "pedante": "El cariño acompañado de necesidad de alimento no perdura.",
+          "significado": "Sin lo necesario para vivir, el amor se acaba.",
+          "equivalente": null
+        },
+        {
+          "original": "Casamiento y mortaja, del cielo baja",
+          "clave": "mortaja",
+          "variantes": [],
+          "pedante": "El matrimonio y la vestidura del difunto descienden del firmamento.",
+          "significado": "Con quién nos casamos y cuándo morimos depende del destino.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Aprendiz de mucho, maestro de nada",
+          "clave": "Aprendiz",
+          "variantes": [],
+          "pedante": "Principiante en numerosas materias, experto en ninguna.",
+          "significado": "Quien quiere saber de todo no llega a dominar nada.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Jack of all trades, master of none."
+          }
+        },
+        {
+          "original": "Quien tiene oficio, tiene beneficio",
+          "clave": "oficio",
+          "variantes": [
+            "El que tiene un oficio tiene un beneficio"
+          ],
+          "pedante": "Aquel que posee una profesión posee una ganancia.",
+          "significado": "Saber un oficio siempre da de comer.",
+          "equivalente": null
+        },
+        {
+          "original": "El que quiera celeste, que le cueste",
+          "clave": "celeste",
+          "variantes": [
+            "El que quiere celeste, que le cueste"
+          ],
+          "pedante": "Quien desee el azul del cielo, que lo pague con esfuerzo.",
+          "significado": "Lo que se desea hay que ganárselo. Se dice mucho en Argentina.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Muchos pocos hacen un mucho",
+          "clave": "pocos",
+          "variantes": [],
+          "pedante": "Numerosas pequeñas cantidades forman una gran cantidad.",
+          "significado": "Sumando poco a poco se consigue mucho.",
+          "equivalente": null
+        },
+        {
+          "original": "Mandar no quiere par",
+          "clave": "Mandar",
+          "variantes": [],
+          "pedante": "Gobernar no admite compañero.",
+          "significado": "El poder no se comparte.",
+          "equivalente": null
+        },
+        {
+          "original": "Primero la obligación y después la devoción",
+          "clave": "devoción",
+          "variantes": [
+            "Antes es la obligación que la devoción"
+          ],
+          "pedante": "En primer lugar el deber y a continuación la piedad.",
+          "significado": "Antes de divertirse hay que cumplir con lo que toca.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Grano a grano llena la gallina el buche",
+          "clave": "buche",
+          "variantes": [
+            "Grano a grano, la gallina llena el buche"
+          ],
+          "pedante": "Semilla tras semilla, el ave de corral colma su estómago.",
+          "significado": "Con constancia se acaba reuniendo mucho.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien dice lo que no debe, oye lo que no quiere",
+          "clave": "debe",
+          "variantes": [
+            "El que dice lo que no debe, oye lo que no quiere"
+          ],
+          "pedante": "Aquel que pronuncia lo que no corresponde escucha lo que no desea.",
+          "significado": "Quien habla mal acaba recibiendo respuestas desagradables.",
+          "equivalente": null
+        },
+        {
+          "original": "El mentiroso ha de tener buena memoria",
+          "clave": "memoria",
+          "variantes": [],
+          "pedante": "El embustero precisa de una excelente capacidad de recordar.",
+          "significado": "Quien miente acaba contradiciéndose.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Mendacem memorem esse oportet."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Nadie puede servir a dos señores",
+          "clave": "señores",
+          "variantes": [
+            "No se puede servir a dos señores"
+          ],
+          "pedante": "Ninguna persona es capaz de estar a las órdenes de dos amos.",
+          "significado": "No se puede ser fiel a dos causas contrarias.",
+          "equivalente": null
+        },
+        {
+          "original": "No hay palabra mal dicha si no es mal entendida",
+          "clave": "entendida",
+          "variantes": [],
+          "pedante": "No existe vocablo mal pronunciado si no es mal interpretado.",
+          "significado": "Muchas ofensas nacen de malentendidos.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien a los suyos se parece, honra merece",
+          "clave": "merece",
+          "variantes": [
+            "El que a los suyos se parece, honra merece"
+          ],
+          "pedante": "Aquel que se asemeja a sus familiares es digno de honor.",
+          "significado": "Es bueno parecerse a los padres.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Más vale saber que haber",
+          "clave": "haber",
+          "variantes": [],
+          "pedante": "Resulta preferible el conocimiento que los bienes.",
+          "significado": "El saber es más valioso que las riquezas.",
+          "equivalente": null
+        },
+        {
+          "original": "Padre mercader, hijo caballero, nieto pordiosero",
+          "clave": "pordiosero",
+          "variantes": [],
+          "pedante": "Progenitor comerciante, descendiente hidalgo, descendiente del descendiente mendicante.",
+          "significado": "Las fortunas familiares rara vez duran más de tres generaciones.",
+          "equivalente": null
+        },
+        {
+          "original": "El que tiene cola de paja no se acerca al fuego",
+          "clave": "paja",
+          "variantes": [
+            "Quien tiene cola de paja no se acerca al fuego"
+          ],
+          "pedante": "Aquel cuyo apéndice trasero es de tallo seco no se aproxima a las llamas.",
+          "significado": "Quien tiene algo que ocultar evita ciertos temas. Se dice mucho en el Cono Sur.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Quien con fuego juega, se quema",
+          "clave": "quema",
+          "variantes": [
+            "El que juega con fuego se quema"
+          ],
+          "pedante": "Aquel que se divierte con las llamas acaba abrasado.",
+          "significado": "Quien se mete en peligros acaba saliendo mal parado.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "If you play with fire, you get burned."
+          }
+        },
+        {
+          "original": "Más vale perder un minuto en la vida que la vida en un minuto",
+          "clave": "minuto",
+          "variantes": [],
+          "pedante": "Resulta preferible extraviar sesenta segundos de la existencia que la existencia en sesenta segundos.",
+          "significado": "Con prisas se corren riesgos; es mejor ir con calma. Se usa mucho en la seguridad vial.",
+          "equivalente": null
+        },
+        {
+          "original": "Juventud, divino tesoro",
+          "clave": "Juventud",
+          "variantes": [],
+          "pedante": "Mocedad, riqueza celestial.",
+          "significado": "La juventud es lo más valioso y no vuelve. Es un verso de Rubén Darío.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Lo escrito, escrito está",
+          "clave": "escrito",
+          "variantes": [],
+          "pedante": "Lo redactado, redactado permanece.",
+          "significado": "Lo que se ha puesto por escrito ya no se puede cambiar. Lo dice Pilato en el Evangelio.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Quod scripsi, scripsi."
+          }
+        },
+        {
+          "original": "El que de joven corre, de viejo trota",
+          "clave": "trota",
+          "variantes": [
+            "Quien de joven corre, de viejo trota"
+          ],
+          "pedante": "Aquel que en la mocedad se desplaza deprisa, en la vejez marcha a paso ligero.",
+          "significado": "Quien fue activo de joven sigue siéndolo de mayor.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien de joven no trabaja, de viejo duerme en la paja",
+          "clave": "trabaja",
+          "variantes": [
+            "El que de joven no trabaja, de viejo duerme en la paja"
+          ],
+          "pedante": "Aquel que en la mocedad no se esfuerza, en la vejez descansa sobre tallos secos.",
+          "significado": "Hay que trabajar de joven para vivir bien de mayor.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Loro viejo no aprende a hablar",
+          "clave": "Loro",
+          "variantes": [],
+          "pedante": "El papagayo de edad avanzada no adquiere la capacidad de expresarse.",
+          "significado": "De mayor cuesta más aprender cosas nuevas.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "You can't teach an old dog new tricks."
+          }
+        },
+        {
+          "original": "Los años no pasan en balde",
+          "clave": "balde",
+          "variantes": [
+            "Los años no pasan en vano"
+          ],
+          "pedante": "Los periodos de doce meses no transcurren sin dejar huella.",
+          "significado": "El paso del tiempo se nota.",
+          "equivalente": null
+        },
+        {
+          "original": "Mal que no tiene cura, quererlo curar es locura",
+          "clave": "locura",
+          "variantes": [],
+          "pedante": "Dolencia sin remedio, pretender sanarla es desatino.",
+          "significado": "No hay que empeñarse en arreglar lo que no tiene arreglo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Ojos que te vieron ir, no te verán volver",
+          "clave": "volver",
+          "variantes": [],
+          "pedante": "Los órganos de la vista que presenciaron tu partida no presenciarán tu regreso.",
+          "significado": "Se dice cuando alguien se marcha para no volver.",
+          "equivalente": null
+        },
+        {
+          "original": "Agua fría y pan caliente nunca hicieron buen vientre",
+          "clave": "vientre",
+          "variantes": [],
+          "pedante": "El líquido helado y el producto de panadería recién horneado jamás procuraron una buena digestión.",
+          "significado": "Hay combinaciones de alimentos que sientan mal.",
+          "equivalente": null
+        },
+        {
+          "original": "Leche y vino, veneno fino",
+          "clave": "veneno",
+          "variantes": [],
+          "pedante": "Producto lácteo y zumo fermentado de la uva, ponzoña refinada.",
+          "significado": "No conviene mezclar leche y vino.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Por San Matías, igualan las noches con los días",
+          "clave": "Matías",
+          "variantes": [
+            "Por San Matías, iguala la noche con el día"
+          ],
+          "pedante": "Al llegar la festividad del apóstol que sustituyó a Judas, se equiparan las horas de oscuridad con las de luz.",
+          "significado": "A finales de febrero los días ya duran casi tanto como las noches.",
+          "equivalente": null
+        },
+        {
+          "original": "Después de comer, ni un sobre leer",
+          "clave": "sobre",
+          "variantes": [],
+          "pedante": "Tras el almuerzo, ni una carta ensobrada que repasar.",
+          "significado": "Después de comer conviene descansar.",
+          "equivalente": null
+        },
+        {
+          "original": "De la panza sale la danza",
+          "clave": "panza",
+          "variantes": [],
+          "pedante": "Del abdomen procede el baile.",
+          "significado": "Bien alimentado, uno tiene fuerzas para todo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "De lo que se come se cría",
+          "clave": "cría",
+          "variantes": [],
+          "pedante": "De aquello que se ingiere se forma uno.",
+          "significado": "Lo que comemos influye en cómo crecemos y estamos.",
+          "equivalente": null
+        },
+        {
+          "original": "No se puede hacer una tortilla sin romper los huevos",
+          "clave": "tortilla",
+          "variantes": [
+            "No se hacen tortillas sin romper huevos"
+          ],
+          "pedante": "Resulta imposible elaborar un plato de huevo batido sin cascar los óvulos de gallina.",
+          "significado": "Para lograr algo hay que asumir algún sacrificio.",
+          "equivalente": {
+            "idioma": "francés",
+            "texto": "On ne fait pas d'omelette sans casser des œufs."
+          }
+        },
+        {
+          "original": "Por el fruto se conoce el árbol",
+          "clave": "fruto",
+          "variantes": [
+            "Por sus frutos los conoceréis"
+          ],
+          "pedante": "Mediante el producto vegetal se identifica la planta leñosa.",
+          "significado": "A las personas se las conoce por sus obras.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Árbol que nace torcido jamás su tronco endereza",
+          "clave": "torcido",
+          "variantes": [
+            "Árbol que nace torcido, nunca su tronco endereza"
+          ],
+          "pedante": "La planta leñosa que brota inclinada nunca rectifica su tallo principal.",
+          "significado": "Los malos hábitos de la infancia son difíciles de corregir.",
+          "equivalente": null
+        },
+        {
+          "original": "Al buey por el asta, y al hombre por la palabra",
+          "clave": "asta",
+          "variantes": [],
+          "pedante": "Al rumiante se le sujeta por el cuerno, y al ser humano por lo que promete.",
+          "significado": "El hombre de bien se compromete con su palabra.",
+          "equivalente": null
+        },
+        {
+          "original": "Al que va a la bodega, por vino le cuentan, beba o no beba",
+          "clave": "bodega",
+          "variantes": [
+            "Al que va a la bodega, por vino le cuentan"
+          ],
+          "pedante": "A quien acude al almacén de caldos se le atribuye haber bebido, lo haya hecho o no.",
+          "significado": "Basta con frecuentar ciertos sitios para ganarse una fama.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El que no está conmigo, está contra mí",
+          "clave": "conmigo",
+          "variantes": [
+            "Quien no está conmigo, está contra mí"
+          ],
+          "pedante": "Aquel que no se halla de mi parte se halla frente a mí.",
+          "significado": "No hay término medio: o se apoya o se está en contra.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Qui non est mecum, contra me est."
+          }
+        },
+        {
+          "original": "De bien nacidos es ser agradecidos",
+          "clave": "agradecidos",
+          "variantes": [
+            "Es de bien nacido ser agradecido"
+          ],
+          "pedante": "Propio de quienes vinieron al mundo con nobleza es mostrar gratitud.",
+          "significado": "Hay que ser agradecido con quien nos ayuda.",
+          "equivalente": null
+        },
+        {
+          "original": "Hacer bien a villanos es echar agua en el mar",
+          "clave": "echar",
+          "variantes": [
+            "Hacer bien a villano es echar agua en el mar"
+          ],
+          "pedante": "Beneficiar a gente ruin equivale a verter líquido en el océano.",
+          "significado": "Ayudar a quien no lo agradece es inútil.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Tanto monta, monta tanto",
+          "clave": "monta",
+          "variantes": [
+            "Tanto monta, monta tanto, Isabel como Fernando"
+          ],
+          "pedante": "Lo mismo vale, vale lo mismo.",
+          "significado": "Da lo mismo una cosa que otra. Era el lema de los Reyes Católicos.",
+          "equivalente": null
+        },
+        {
+          "original": "Lo que no puede ser, no puede ser, y además es imposible",
+          "clave": "imposible",
+          "variantes": [],
+          "pedante": "Aquello que no es posible no es posible y, por añadidura, no tiene posibilidad.",
+          "significado": "No hay que empeñarse en lo imposible. Se atribuye al torero Rafael Guerra, Guerrita.",
+          "equivalente": null
+        },
+        {
+          "original": "Se dice el pecado, pero no el pecador",
+          "clave": "pecador",
+          "variantes": [],
+          "pedante": "Se menciona la falta, mas no a quien la comete.",
+          "significado": "Se puede contar un hecho sin decir quién lo hizo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Marzo ventoso y abril lluvioso sacan a mayo florido y hermoso",
+          "clave": "ventoso",
+          "variantes": [
+            "Marzo ventoso y abril lluvioso hacen a mayo florido y hermoso"
+          ],
+          "pedante": "El tercer mes con mucho aire y el cuarto con mucha precipitación producen un quinto mes lleno de flores y bello.",
+          "significado": "Un marzo de viento y un abril de lluvias traen una primavera espléndida.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "March winds and April showers bring forth May flowers."
+          }
+        },
+        {
+          "original": "Ancha es Castilla",
+          "clave": "Ancha",
+          "variantes": [],
+          "pedante": "Amplia resulta la tierra castellana.",
+          "significado": "Se dice para animarse a hacer lo que uno quiere, sin limitaciones.",
+          "equivalente": null
+        },
+        {
+          "original": "En la mesa y en el juego se conoce al caballero",
+          "clave": "mesa",
+          "variantes": [],
+          "pedante": "Ante los platos y ante las apuestas se identifica al hombre noble.",
+          "significado": "Comiendo y jugando se ve cómo es de verdad una persona.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cuando marzo mayea, mayo marcea",
+          "clave": "mayea",
+          "variantes": [],
+          "pedante": "Si el tercer mes se comporta como el quinto, el quinto se comporta como el tercero.",
+          "significado": "Si marzo es muy templado, mayo será fresco.",
+          "equivalente": null
+        },
+        {
+          "original": "Comida hecha, compañía deshecha",
+          "clave": "deshecha",
+          "variantes": [],
+          "pedante": "Almuerzo concluido, reunión disuelta.",
+          "significado": "Se dice de quien se marcha en cuanto ha comido.",
+          "equivalente": null
+        },
+        {
+          "original": "El vino alegra el ojo, limpia el diente y sana el vientre",
+          "clave": "alegra",
+          "variantes": [],
+          "pedante": "El zumo fermentado de la uva regocija la mirada, asea la dentadura y cura el abdomen.",
+          "significado": "Elogio popular del vino tomado con moderación.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "En marzo, la veleta ni dos horas está quieta",
+          "clave": "veleta",
+          "variantes": [
+            "En marzo, la veleta, ni dos horas se está quieta"
+          ],
+          "pedante": "En el tercer mes del año, el indicador del viento no permanece inmóvil ni ciento veinte minutos.",
+          "significado": "Marzo es un mes de vientos cambiantes.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien come y canta, algún sentido le falta",
+          "clave": "canta",
+          "variantes": [
+            "El que come y canta, algún sentido le falta"
+          ],
+          "pedante": "Aquel que ingiere alimentos mientras entona melodías carece de alguna facultad.",
+          "significado": "Es de mala educación cantar mientras se come.",
+          "equivalente": null
+        },
+        {
+          "original": "Comer hasta enfermar y ayunar hasta sanar",
+          "clave": "ayunar",
+          "variantes": [],
+          "pedante": "Ingerir alimentos hasta indisponerse y abstenerse de ellos hasta recuperarse.",
+          "significado": "Se critica el exceso, que obliga después a la dieta.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Más vale pan con amor que gallina con dolor",
+          "clave": "dolor",
+          "variantes": [],
+          "pedante": "Resulta preferible producto de panadería con cariño que ave de corral con sufrimiento.",
+          "significado": "Es mejor vivir con poco y feliz que con mucho y desgraciado.",
+          "equivalente": null
+        },
+        {
+          "original": "Fiarse es bueno, no fiarse es mejor",
+          "clave": "Fiarse",
+          "variantes": [
+            "Fiarse es bueno",
+            " no fiarse, mejor"
+          ],
+          "pedante": "Depositar confianza resulta positivo; no depositarla, más positivo todavía.",
+          "significado": "Conviene ser prudente con la confianza.",
+          "equivalente": null
+        },
+        {
+          "original": "Pan con pan, comida de tontos",
+          "clave": "comida",
+          "variantes": [
+            "Pan con pan, comida de bobos"
+          ],
+          "pedante": "Producto de panadería con producto de panadería, alimento de necios.",
+          "significado": "Juntar dos cosas iguales no aporta nada; también se dice de las parejas demasiado parecidas.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "A buen gato, buen ratón",
+          "clave": "gato",
+          "variantes": [],
+          "pedante": "A un felino excelente, un roedor excelente.",
+          "significado": "Cada uno encuentra a alguien a su altura.",
+          "equivalente": null
+        },
+        {
+          "original": "Guarda pan para mayo y leña para abril",
+          "clave": "leña",
+          "variantes": [],
+          "pedante": "Reserva producto de panadería para el quinto mes y combustible vegetal para el cuarto.",
+          "significado": "Hay que ser previsor, porque los malos tiempos pueden volver.",
+          "equivalente": null
+        },
+        {
+          "original": "Más vale acostarse sin cenar que levantarse con deudas",
+          "clave": "deudas",
+          "variantes": [
+            "Más vale irse a la cama sin cenar que levantarse con deudas"
+          ],
+          "pedante": "Resulta preferible tumbarse sin la última comida que incorporarse con compromisos de pago.",
+          "significado": "Es mejor pasar privaciones que endeudarse.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La pereza es la madre de todos los vicios",
+          "clave": "pereza",
+          "variantes": [
+            "La ociosidad es la madre de todos los vicios"
+          ],
+          "pedante": "La holgazanería es progenitora de la totalidad de los malos hábitos.",
+          "significado": "Quien no tiene nada que hacer acaba metiéndose en líos.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Idleness is the mother of all vices."
+          }
+        },
+        {
+          "original": "Cuando el diablo no tiene qué hacer, con el rabo mata moscas",
+          "clave": "rabo",
+          "variantes": [
+            "Cuando el diablo no tiene qué hacer, mata moscas con el rabo"
+          ],
+          "pedante": "Cuando el maligno carece de ocupación, con su cola aniquila dípteros.",
+          "significado": "Quien está ocioso se dedica a cosas inútiles.",
+          "equivalente": null
+        },
+        {
+          "original": "Tanto peca el que mata la vaca como el que le tira de la pata",
+          "clave": "vaca",
+          "variantes": [
+            "Tanto peca el que mata la vaca como el que le agarra la pata"
+          ],
+          "pedante": "Comete idéntica falta quien sacrifica al bovino que quien le sujeta la extremidad.",
+          "significado": "El cómplice es tan culpable como el autor.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El dinero llama al dinero",
+          "clave": "llama",
+          "variantes": [
+            "Dinero llama a dinero"
+          ],
+          "pedante": "El capital monetario atrae al capital monetario.",
+          "significado": "Quien ya tiene dinero gana más con facilidad.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Money makes money."
+          }
+        },
+        {
+          "original": "Quien tiene dinero, tiene compañeros",
+          "clave": "compañeros",
+          "variantes": [
+            "El que tiene dinero, tiene compañeros"
+          ],
+          "pedante": "Aquel que posee caudales posee también acompañantes.",
+          "significado": "A los ricos no les faltan amigos interesados.",
+          "equivalente": null
+        },
+        {
+          "original": "Las deudas viejas no se pagan y las nuevas se dejan envejecer",
+          "clave": "envejecer",
+          "variantes": [],
+          "pedante": "Los compromisos de pago antiguos no se saldan y los recientes se permite que se hagan antiguos.",
+          "significado": "Se dice con humor de los malos pagadores.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La verdad os hará libres",
+          "clave": "libres",
+          "variantes": [],
+          "pedante": "Lo cierto os liberará.",
+          "significado": "Conocer la verdad nos libera. Es una frase del Evangelio de san Juan.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Veritas liberabit vos."
+          }
+        },
+        {
+          "original": "Ni tanto ni tan calvo",
+          "clave": "calvo",
+          "variantes": [],
+          "pedante": "Ni en tal cantidad ni con tan poco cabello.",
+          "significado": "Hay que evitar los extremos.",
+          "equivalente": null
+        },
+        {
+          "original": "Ni quito ni pongo rey, pero ayudo a mi señor",
+          "clave": "quito",
+          "variantes": [],
+          "pedante": "Ni retiro ni coloco monarca, mas presto auxilio a mi amo.",
+          "significado": "Se dice de quien interviene en un asunto aparentando no tomar partido. La frase se atribuye a Bertrand du Guesclin.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Mientras hay vida, hay esperanza",
+          "clave": "Mientras",
+          "variantes": [],
+          "pedante": "En tanto existe la existencia, existe la expectativa favorable.",
+          "significado": "Mientras se vive, siempre es posible que las cosas mejoren.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Dum spiro, spero."
+          }
+        },
+        {
+          "original": "Quien no se arriesga no pasa la mar",
+          "clave": "mar",
+          "variantes": [
+            "El que no se arriesga no pasa la mar"
+          ],
+          "pedante": "Aquel que no se expone no atraviesa el océano.",
+          "significado": "Para lograr algo grande hay que atreverse.",
+          "equivalente": null
+        },
+        {
+          "original": "Bien vengas, mal, si vienes solo",
+          "clave": "solo",
+          "variantes": [],
+          "pedante": "Sé bienvenida, desgracia, si llegas sin compañía.",
+          "significado": "Una desgracia se soporta; lo malo es que suelen llegar varias a la vez.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cada uno lleva su cruz",
+          "clave": "cruz",
+          "variantes": [
+            "Cada cual carga con su cruz"
+          ],
+          "pedante": "Cada individuo porta su madero de suplicio.",
+          "significado": "Todo el mundo tiene sus problemas.",
+          "equivalente": null
+        },
+        {
+          "original": "No es tan fiero el león como lo pintan",
+          "clave": "fiero",
+          "variantes": [
+            "No es tan bravo el león como lo pintan"
+          ],
+          "pedante": "No resulta tan feroz el felino de melena como lo representan.",
+          "significado": "Las cosas o las personas no son tan terribles como parecen.",
+          "equivalente": null
+        },
+        {
+          "original": "Dios castiga sin palo ni piedra",
+          "clave": "castiga",
+          "variantes": [
+            "Dios castiga sin palo y sin piedra"
+          ],
+          "pedante": "El Altísimo sanciona sin vara ni guijarro.",
+          "significado": "Quien hace mal acaba pagándolo de alguna manera.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Lo mejor es enemigo de lo bueno",
+          "clave": "mejor",
+          "variantes": [],
+          "pedante": "Lo óptimo es adversario de lo positivo.",
+          "significado": "Por buscar la perfección se puede estropear algo que ya estaba bien.",
+          "equivalente": {
+            "idioma": "francés",
+            "texto": "Le mieux est l'ennemi du bien."
+          }
+        },
+        {
+          "original": "Cada día que amanece, el número de tontos crece",
+          "clave": "amanece",
+          "variantes": [],
+          "pedante": "Con cada jornada que despunta, la cifra de necios aumenta.",
+          "significado": "Se dice con humor ante una tontería.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien mucho habla, mucho yerra",
+          "clave": "habla",
+          "variantes": [
+            "El que mucho habla, mucho yerra"
+          ],
+          "pedante": "Aquel que se expresa en abundancia se equivoca en abundancia.",
+          "significado": "Cuanto más se habla, más fácil es meter la pata.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "En boca del mentiroso, lo cierto se hace dudoso",
+          "clave": "dudoso",
+          "variantes": [],
+          "pedante": "En los labios del embustero, lo verdadero se vuelve incierto.",
+          "significado": "Al mentiroso no se le cree ni cuando dice la verdad.",
+          "equivalente": null
+        },
+        {
+          "original": "Nunca te acostarás sin saber una cosa más",
+          "clave": "acostarás",
+          "variantes": [
+            "A la cama no te irás sin saber una cosa más"
+          ],
+          "pedante": "Jamás te tumbarás en el lecho sin conocer un dato adicional.",
+          "significado": "Cada día se aprende algo nuevo.",
+          "equivalente": null
+        },
+        {
+          "original": "Agua y sol, tiempo de caracol",
+          "clave": "caracol",
+          "variantes": [],
+          "pedante": "Precipitación y astro rey, época del molusco de concha espiral.",
+          "significado": "Cuando llueve y hace sol salen los caracoles.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cielo empedrado, suelo mojado",
+          "clave": "empedrado",
+          "variantes": [
+            "Cielo aborregado, suelo mojado"
+          ],
+          "pedante": "Firmamento adoquinado, terreno humedecido.",
+          "significado": "Cuando el cielo se llena de nubecillas, suele llover pronto.",
+          "equivalente": null
+        },
+        {
+          "original": "Mañanitas de niebla, tardes de paseo",
+          "clave": "niebla",
+          "variantes": [],
+          "pedante": "Amaneceres con bruma, atardeceres para caminar.",
+          "significado": "Las mañanas de niebla suelen dar paso a tardes buenas.",
+          "equivalente": null
+        },
+        {
+          "original": "A mucho viento, poca lluvia",
+          "clave": "lluvia",
+          "variantes": [],
+          "pedante": "A abundante aire en movimiento, escasa precipitación.",
+          "significado": "Cuando sopla mucho viento, no suele llover mucho.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Aceituna, una es oro, dos es plata y la tercera mata",
+          "clave": "Aceituna",
+          "variantes": [
+            "Aceitunas, una es oro, dos son plata y la tercera mata"
+          ],
+          "pedante": "Fruto del olivo: uno es metal áureo, dos son metal argénteo y el tercero aniquila.",
+          "significado": "Las aceitunas, con moderación.",
+          "equivalente": null
+        },
+        {
+          "original": "Hijo no tenemos y nombre le ponemos",
+          "clave": "nombre",
+          "variantes": [],
+          "pedante": "Descendencia no poseemos y denominación le asignamos.",
+          "significado": "Se dice de quien hace planes sobre algo que todavía no existe.",
+          "equivalente": null
+        },
+        {
+          "original": "Donde las dan, las toman",
+          "clave": "toman",
+          "variantes": [],
+          "pedante": "Allí donde las reparten, las reciben.",
+          "significado": "Quien hace algo a otro puede esperar que se lo devuelvan.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Quien mal anda, mal acaba",
+          "clave": "anda",
+          "variantes": [
+            "El que mal anda, mal acaba"
+          ],
+          "pedante": "Aquel que procede de forma incorrecta termina de forma incorrecta.",
+          "significado": "La mala conducta acaba trayendo consecuencias.",
+          "equivalente": null
+        },
+        {
+          "original": "Por un perro que maté, mataperros me llamaron",
+          "clave": "mataperros",
+          "variantes": [],
+          "pedante": "Por un solo can al que di muerte, exterminador de canes me apodaron.",
+          "significado": "Por un solo error, a uno se le queda una fama para siempre.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien no tiene cabeza, tiene que tener pies",
+          "clave": "cabeza",
+          "variantes": [
+            "El que no tiene cabeza, tiene que tener pies"
+          ],
+          "pedante": "Aquel que carece de mollera ha de poseer extremidades inferiores.",
+          "significado": "Quien olvida las cosas tiene que dar más viajes.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cada uno es como Dios le hizo",
+          "clave": "hizo",
+          "variantes": [
+            "Cada cual es como Dios lo hizo"
+          ],
+          "pedante": "Cada individuo es tal como lo creó el Altísimo.",
+          "significado": "Hay que aceptar a las personas como son.",
+          "equivalente": null
+        },
+        {
+          "original": "Los últimos serán los primeros",
+          "clave": "últimos",
+          "variantes": [],
+          "pedante": "Quienes ocupan el postrer lugar ocuparán el lugar inicial.",
+          "significado": "Quien hoy está abajo puede acabar arriba. Es una frase del Evangelio.",
+          "equivalente": null
+        },
+        {
+          "original": "Muchos son los llamados y pocos los escogidos",
+          "clave": "escogidos",
+          "variantes": [],
+          "pedante": "Numerosos son los convocados y escasos los seleccionados.",
+          "significado": "Muchos lo intentan, pero pocos lo consiguen.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Multi sunt vocati, pauci vero electi."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Polvo eres y en polvo te convertirás",
+          "clave": "Polvo",
+          "variantes": [
+            "Polvo eres y en polvo te has de convertir"
+          ],
+          "pedante": "Partículas de tierra seca eres y en partículas de tierra seca te transformarás.",
+          "significado": "Todos vamos a morir. Se dice el Miércoles de Ceniza.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Memento, homo, quia pulvis es."
+          }
+        },
+        {
+          "original": "Médico, cúrate a ti mismo",
+          "clave": "Médico",
+          "variantes": [],
+          "pedante": "Galeno, sánate a tu propia persona.",
+          "significado": "Antes de dar consejos, hay que aplicárselos uno mismo.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Medice, cura te ipsum."
+          }
+        },
+        {
+          "original": "Hay más alegría en dar que en recibir",
+          "clave": "recibir",
+          "variantes": [
+            "Hay más dicha en dar que en recibir"
+          ],
+          "pedante": "Existe mayor regocijo en entregar que en obtener.",
+          "significado": "Dar a los demás hace más feliz que recibir.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El que nace para martillo, del cielo le caen los clavos",
+          "clave": "martillo",
+          "variantes": [
+            "Al que nace para martillo, del cielo le caen los clavos"
+          ],
+          "pedante": "Aquel que viene al mundo destinado a ser herramienta de golpear recibe desde el firmamento las puntas de metal.",
+          "significado": "Nadie escapa de su destino. Se dice mucho en América.",
+          "equivalente": null
+        },
+        {
+          "original": "Pájaro que comió, voló",
+          "clave": "comió",
+          "variantes": [],
+          "pedante": "Ave que se alimentó, emprendió el vuelo.",
+          "significado": "Se dice de quien se va en cuanto consigue lo que quería.",
+          "equivalente": null
+        },
+        {
+          "original": "El que nace lechón muere cochino",
+          "clave": "lechón",
+          "variantes": [
+            "Quien nace lechón, muere cochino"
+          ],
+          "pedante": "Aquel que viene al mundo como cría de cerdo fallece como cerdo adulto.",
+          "significado": "Nadie cambia su forma de ser.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Amor de padre, que todo lo demás es aire",
+          "clave": "aire",
+          "variantes": [],
+          "pedante": "Cariño de progenitor, que el resto es viento.",
+          "significado": "El amor de los padres es el único seguro.",
+          "equivalente": null
+        },
+        {
+          "original": "A boda ni bautizo no vayas sin ser llamado",
+          "clave": "bautizo",
+          "variantes": [
+            "A boda ni bautizo no vayas sin ser invitado"
+          ],
+          "pedante": "A celebración nupcial ni a sacramento del agua no acudas sin ser convocado.",
+          "significado": "No hay que presentarse donde no te han invitado.",
+          "equivalente": null
+        },
+        {
+          "original": "Al que le duele la muela, que se la saque",
+          "clave": "muela",
+          "variantes": [
+            "A quien le duela la muela, que se la saque"
+          ],
+          "pedante": "A quien le aqueje la pieza dental, que se la extraiga.",
+          "significado": "Cada uno debe resolver sus propios problemas.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La primavera, la sangre altera",
+          "clave": "primavera",
+          "variantes": [],
+          "pedante": "La estación florida perturba el fluido de las venas.",
+          "significado": "En primavera se está más animado y enamoradizo.",
+          "equivalente": null
+        },
+        {
+          "original": "Agua de mayo, pan para todo el año",
+          "clave": "mayo",
+          "variantes": [],
+          "pedante": "Líquido del quinto mes, producto de panadería para doce meses.",
+          "significado": "La lluvia de mayo asegura buenas cosechas.",
+          "equivalente": null
+        },
+        {
+          "original": "Abril y mayo, las llaves de todo el año",
+          "clave": "llaves",
+          "variantes": [
+            "Abril y mayo, llaves de todo el año"
+          ],
+          "pedante": "El cuarto y el quinto mes, las herramientas de cerradura de los doce meses.",
+          "significado": "Del tiempo de la primavera depende la cosecha del año.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Domingo de Ramos, quien no estrena no tiene manos",
+          "clave": "Ramos",
+          "variantes": [
+            "Domingo de Ramos, el que no estrena no tiene manos"
+          ],
+          "pedante": "En la festividad de las palmas, quien no estrena prenda carece de extremidades superiores.",
+          "significado": "Era costumbre estrenar ropa el Domingo de Ramos.",
+          "equivalente": null
+        },
+        {
+          "original": "Con paciencia se gana el cielo",
+          "clave": "gana",
+          "variantes": [],
+          "pedante": "Mediante la calma perseverante se obtiene el paraíso.",
+          "significado": "La paciencia acaba teniendo recompensa.",
+          "equivalente": null
+        },
+        {
+          "original": "Poco a poco hila la vieja el copo",
+          "clave": "copo",
+          "variantes": [],
+          "pedante": "Lentamente la anciana convierte en hebra el mechón de lana.",
+          "significado": "Con constancia se acaba cualquier tarea.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Cuanto más tienes, más quieres",
+          "clave": "tienes",
+          "variantes": [
+            "Cuanto más se tiene, más se quiere"
+          ],
+          "pedante": "En la medida en que posees más, deseas más.",
+          "significado": "La codicia nunca se sacia.",
+          "equivalente": null
+        },
+        {
+          "original": "Todos los extremos son malos",
+          "clave": "malos",
+          "variantes": [],
+          "pedante": "La totalidad de los límites opuestos resultan perjudiciales.",
+          "significado": "En el término medio está el acierto.",
+          "equivalente": null
+        },
+        {
+          "original": "La gota de agua horada la piedra",
+          "clave": "gota",
+          "variantes": [
+            "Gota a gota se horada la piedra"
+          ],
+          "pedante": "La pequeña porción de líquido perfora la roca.",
+          "significado": "Con constancia se vence lo más duro.",
+          "equivalente": {
+            "idioma": "latín",
+            "texto": "Gutta cavat lapidem."
+          }
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Solo sé que no sé nada",
+          "clave": "nada",
+          "variantes": [],
+          "pedante": "Exclusivamente tengo conocimiento de que carezco de todo conocimiento.",
+          "significado": "El sabio es consciente de lo poco que sabe. Se atribuye a Sócrates.",
+          "equivalente": null
+        },
+        {
+          "original": "Quien no tiene padrino no se bautiza",
+          "clave": "padrino",
+          "variantes": [
+            "El que no tiene padrinos no se bautiza"
+          ],
+          "pedante": "Aquel que carece de valedor no recibe el sacramento del agua.",
+          "significado": "Sin recomendaciones es difícil conseguir algo.",
+          "equivalente": null
+        },
+        {
+          "original": "En el pecado lleva la penitencia",
+          "clave": "penitencia",
+          "variantes": [
+            "En el pecado va la penitencia"
+          ],
+          "pedante": "En la propia falta va incluido el castigo.",
+          "significado": "Quien hace algo mal ya sufre las consecuencias de ello.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Amigo en la adversidad, amigo de verdad",
+          "clave": "adversidad",
+          "variantes": [],
+          "pedante": "Compañero en el infortunio, compañero auténtico.",
+          "significado": "Los verdaderos amigos se ven en los malos momentos.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "A friend in need is a friend indeed."
+          }
+        },
+        {
+          "original": "Al amigo, con su vicio",
+          "clave": "vicio",
+          "variantes": [
+            "Al amigo, con su vicio, y al enemigo, con su virtud"
+          ],
+          "pedante": "Al compañero hay que aceptarlo con su mal hábito.",
+          "significado": "A los amigos hay que quererlos con sus defectos.",
+          "equivalente": null
+        },
+        {
+          "original": "La confianza da asco",
+          "clave": "asco",
+          "variantes": [],
+          "pedante": "La familiaridad produce repugnancia.",
+          "significado": "Con demasiada confianza se pierde el respeto.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Por la víspera se saca el día",
+          "clave": "víspera",
+          "variantes": [],
+          "pedante": "Mediante el día anterior se deduce la jornada.",
+          "significado": "Por cómo empieza algo se puede saber cómo acabará.",
+          "equivalente": null
+        },
+        {
+          "original": "Más vale el buen nombre que muchas riquezas",
+          "clave": "riquezas",
+          "variantes": [],
+          "pedante": "Resulta preferible la reputación honrada que abundantes caudales.",
+          "significado": "La buena fama vale más que el dinero.",
+          "equivalente": null
+        },
+        {
+          "original": "Más vale honra sin barcos que barcos sin honra",
+          "clave": "barcos",
+          "variantes": [],
+          "pedante": "Resulta preferible la dignidad sin navíos que los navíos sin dignidad.",
+          "significado": "Es mejor perder con honor que ganar sin él. Se atribuye al almirante Méndez Núñez.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El que no se consuela es porque no quiere",
+          "clave": "consuela",
+          "variantes": [
+            "Quien no se consuela es porque no quiere"
+          ],
+          "pedante": "Aquel que no halla alivio es porque no lo desea.",
+          "significado": "Siempre se encuentra algún motivo de consuelo.",
+          "equivalente": null
+        },
+        {
+          "original": "Nadie da nada por nada",
+          "clave": "Nadie",
+          "variantes": [],
+          "pedante": "Ninguna persona entrega cosa alguna a cambio de cosa ninguna.",
+          "significado": "Todo favor espera algo a cambio.",
+          "equivalente": null
+        },
+        {
+          "original": "Despacito y buena letra",
+          "clave": "Despacito",
+          "variantes": [
+            "Despacio y buena letra"
+          ],
+          "pedante": "Con lentitud y caligrafía esmerada.",
+          "significado": "Las cosas bien hechas requieren calma. Es un verso de Antonio Machado.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "De músico, poeta y loco, todos tenemos un poco",
+          "clave": "poeta",
+          "variantes": [
+            "De poeta, músico y loco, todos tenemos un poco"
+          ],
+          "pedante": "De intérprete de melodías, versificador y demente, la totalidad poseemos una pequeña porción.",
+          "significado": "Todo el mundo tiene algo de artista y de chiflado.",
+          "equivalente": null
+        },
+        {
+          "original": "Sin prisa, pero sin pausa",
+          "clave": "pausa",
+          "variantes": [],
+          "pedante": "Sin premura, mas sin interrupción.",
+          "significado": "Hay que avanzar con calma, pero sin detenerse.",
+          "equivalente": {
+            "idioma": "alemán",
+            "texto": "Ohne Hast, aber ohne Rast."
+          }
+        },
+        {
+          "original": "El que mucho corre, pronto para",
+          "clave": "corre",
+          "variantes": [
+            "Quien mucho corre, pronto para"
+          ],
+          "pedante": "Aquel que se apresura en exceso se detiene enseguida.",
+          "significado": "Quien va demasiado deprisa se agota antes.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Quien adelante no mira, atrás se queda",
+          "clave": "adelante",
+          "variantes": [
+            "El que adelante no mira, atrás se queda"
+          ],
+          "pedante": "Aquel que no dirige la vista al frente permanece rezagado.",
+          "significado": "Hay que mirar al futuro para progresar.",
+          "equivalente": null
+        },
+        {
+          "original": "A tal señor, tal honor",
+          "clave": "honor",
+          "variantes": [],
+          "pedante": "A semejante caballero, semejante distinción.",
+          "significado": "Cada uno merece el trato que corresponde a su categoría.",
+          "equivalente": null
+        },
+        {
+          "original": "El rey va hasta donde puede, y no hasta donde quiere",
+          "clave": "rey",
+          "variantes": [],
+          "pedante": "El monarca llega hasta donde le es posible, no hasta donde desea.",
+          "significado": "Hasta los más poderosos tienen límites.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "Ir por lana y volver trasquilado",
+          "clave": "trasquilado",
+          "variantes": [
+            "Fue por lana y volvió trasquilado"
+          ],
+          "pedante": "Acudir en busca de vellón y regresar esquilado.",
+          "significado": "Salir perjudicado de lo que se esperaba que diera beneficio.",
+          "equivalente": null
+        },
+        {
+          "original": "Burro grande, ande o no ande",
+          "clave": "ande",
+          "variantes": [
+            "Caballo grande, ande o no ande"
+          ],
+          "pedante": "Jumento de gran tamaño, camine o no camine.",
+          "significado": "Se dice de quien prefiere lo grande a lo útil.",
+          "equivalente": null
+        },
+        {
+          "original": "No se hizo la miel para la boca del asno",
+          "clave": "boca",
+          "variantes": [],
+          "pedante": "El néctar de las abejas no fue elaborado para los labios del jumento.",
+          "significado": "Hay cosas finas que no sabe apreciar cualquiera.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "El burro delante, para que no se espante",
+          "clave": "espante",
+          "variantes": [
+            "El burro por delante, para que no se espante"
+          ],
+          "pedante": "El jumento en primer lugar, a fin de que no se asuste.",
+          "significado": "Se dice a quien se nombra a sí mismo antes que a los demás.",
+          "equivalente": null
+        },
+        {
+          "original": "A quien cuece y amasa, de todo le pasa",
+          "clave": "amasa",
+          "variantes": [
+            "Al que cuece y amasa, de todo le pasa"
+          ],
+          "pedante": "A quien hornea y trabaja la masa le ocurre de todo.",
+          "significado": "Quien hace muchas cosas está expuesto a que alguna salga mal.",
+          "equivalente": null
+        },
+        {
+          "original": "En la boca del discreto, lo público es secreto",
+          "clave": "discreto",
+          "variantes": [],
+          "pedante": "En los labios del prudente, lo notorio se vuelve confidencial.",
+          "significado": "La persona discreta ni siquiera repite lo que ya sabe todo el mundo.",
+          "equivalente": null
+        }
+      ]
+    },
+    {
+      "refranes": [
+        {
+          "original": "La palabra es plata y el silencio es oro",
+          "clave": "silencio",
+          "variantes": [
+            "El silencio es oro"
+          ],
+          "pedante": "El vocablo es metal argénteo y la ausencia de sonido es metal áureo.",
+          "significado": "Muchas veces es mejor callar que hablar.",
+          "equivalente": {
+            "idioma": "inglés",
+            "texto": "Speech is silver, silence is golden."
+          }
+        },
+        {
+          "original": "Más vale callar que mal hablar",
+          "clave": "mal",
+          "variantes": [],
+          "pedante": "Resulta preferible guardar silencio que expresarse incorrectamente.",
+          "significado": "Antes que decir algo inconveniente, mejor no decir nada.",
+          "equivalente": null
+        },
+        {
+          "original": "Colorín colorado, este cuento se ha acabado",
+          "clave": "Colorín",
+          "variantes": [
+            "Y colorín colorado, este cuento se ha acabado"
+          ],
+          "pedante": "Tonalidad viva, tonalidad roja, esta narración ha concluido.",
+          "significado": "Fórmula para terminar los cuentos, y también cualquier asunto.",
+          "equivalente": null
+        }
+      ]
     }
   ]
 }
